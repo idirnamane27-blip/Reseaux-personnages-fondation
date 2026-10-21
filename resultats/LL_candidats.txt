@@ -1,0 +1,424 @@
+Fondation	1	400
+Empire	1	152
+Galaxie	1	140
+Seconde	1	120
+Seconde Fondation	2	119
+Trantor	1	83
+Darell	1	79
+Kalgan	1	76
+Barr	1	73
+Mis	1	69
+Anacréon	1	64
+Terminus	1	58
+Plan	1	54
+Maire	1	52
+Premier	1	47
+Marchand	1	45
+Hari	1	42
+Hari Seldon	2	42
+Orateur	1	42
+Ebling Mis	2	36
+Marchands	1	33
+Tazenda	1	30
+Commodore	1	29
+Premier Orateur	2	29
+Galactique	1	26
+Excellence	1	26
+Grand	1	26
+Lee	1	26
+Maître	1	24
+Papa	1	23
+Espace	1	22
+Port	1	22
+Conseil	1	22
+Première	1	20
+Gorov	1	20
+Périphérie	1	19
+Grand Maître	2	19
+Seigneur	1	17
+Empire Galactique	2	16
+Etat	1	16
+Première Fondation	2	16
+Esprit	1	15
+Korell	1	15
+Majesté	1	14
+Fondations	1	14
+Premier Citoyen	2	14
+Citoyen	1	14
+Rossem	1	14
+Siwenna	1	12
+Impériale	1	12
+Bail	1	12
+Encyclopédie	1	11
+Néotrantor	1	11
+Dame	1	11
+Majesté Impériale	2	10
+Salvor	1	10
+Salvor Hardin	2	10
+Seigneurs	1	10
+Jord	1	10
+Monsieur	1	9
+Royaumes	1	9
+Esprit Galactique	2	9
+Le Premier	2	9
+Sa Majesté	2	8
+Sa Majesté Impériale	3	8
+Sire	1	8
+Grâce	1	8
+Commission	1	8
+Smyrno	1	8
+Quatre Royaumes	2	8
+Askone	1	8
+Le Commodore	2	8
+Anciens	1	8
+Le Premier Orateur	3	8
+Le Maire	2	7
+Seigneur de Kalgan	3	7
+Haut	1	7
+Dirige	1	7
+Siwennien	1	6
+Marchands Indépendants	2	6
+Indépendants	1	6
+Visi-Sonor	1	6
+Nébuleuse	1	6
+Procureur	1	6
+End	1	6
+Administration	1	6
+Conseil d'Administration	2	6
+Jaim	1	6
+Union	1	6
+Palver	1	6
+Association	1	5
+Cassandre	1	5
+Far	1	5
+Far Star	2	5
+Star	1	5
+Asper	1	5
+Astronef	1	4
+Soleil	1	4
+Ere	1	4
+Encyclopédistes	1	4
+Votre Altesse	2	4
+Altesse	1	4
+Santanni	1	4
+Smyrnien	1	4
+Maître Marchand	2	4
+Votre Grâce	2	4
+Kalganiens	1	4
+Palais	1	3
+Grande	1	3
+Grande Galaxie	2	3
+Nouvelles	1	3
+Nouvelles Impériales	2	3
+Impériales	1	3
+Guerre	1	3
+Hangar	1	3
+Ovall Gri	2	3
+Gri	1	3
+Grand Pillage	2	3
+Pillage	1	3
+Votre Majesté	2	3
+Université	1	3
+Monseigneur	1	3
+Lewis	1	3
+Askoniens	1	3
+République	1	3
+Korellienne	1	3
+Argo	1	3
+Korelliens	1	3
+Commodore Asper	2	3
+Grand Prêtre	2	3
+Prêtre	1	3
+Rossemites	1	3
+Seigneurs de Tazenda	3	3
+Unimara	1	3
+Etoiles	1	2
+Amas	1	2
+Lemul	1	2
+Amas de Lemul	3	2
+Cartels	1	2
+Pléiades	1	2
+Plan de Seldon	3	2
+Information	1	2
+Sciences	1	2
+Lors	1	2
+Sa Seigneurie	2	2
+Seigneurie	1	2
+Horleggor	1	2
+Paradis	1	2
+Newton	1	2
+Filien	1	2
+Votre Majesté Impériale	3	2
+Homo	1	2
+Ier	1	2
+Bibliothèque	1	2
+Journal	1	2
+Votre Excellence	2	2
+Son Excellence	2	2
+Anselme Haut	2	2
+Anselme Haut Rodric	3	2
+Son Auguste	2	2
+Son Auguste Majesté	3	2
+Auguste	1	2
+Auguste Majesté	2	2
+Empereur	1	2
+Gamma	1	2
+Andromède	1	2
+Gamma d'Andromède	2	2
+Holk	1	2
+Parti	1	2
+Action	1	2
+Zéon	1	2
+Les Gorm	2	2
+Convention	1	2
+Eskel	1	2
+République Korellienne	2	2
+Temples	1	2
+Asper Argo	2	2
+Le Commodore Asper	3	2
+Mondes	1	2
+Pelot	1	2
+Nébuleuse de Pelot	3	2
+Vincetori	1	2
+Gentri	1	2
+Ancien	1	2
+Avenir	1	2
+Avenir du Plan	3	2
+Madame	1	2
+Premier Ministre	2	2
+Ministre	1	2
+Stanmark	1	2
+Canal	1	2
+Preem Palver	2	2
+Impériaux	1	1
+Sa Splendeur	2	1
+Sa Splendeur Impériale	3	1
+Splendeur	1	1
+Splendeur Impériale	2	1
+Etats-frontière	1	1
+Mountel	1	1
+Paramay	1	1
+Mountel de Paramay	3	1
+Etoiles Sombres	2	1
+Sombres	1	1
+Pax	1	1
+Pax Imperium	2	1
+Imperium	1	1
+Empire Universel	2	1
+Universel	1	1
+Vrank	1	1
+Wanda	1	1
+Mori	1	1
+Mori Luk	2	1
+Terre	1	1
+Age	1	1
+Age Héroïque	2	1
+Héroïque	1	1
+Impériales de Trantor	3	1
+Conseil de Guerre	3	1
+Loris	1	1
+Académie	1	1
+Service	1	1
+Renseignements	1	1
+Service de Renseignements	3	1
+Stanel	1	1
+Amann	1	1
+Le Hangar	2	1
+Magnifiée Giganticus	2	1
+Giganticus	1	1
+Liberté	1	1
+Porfirat	1	1
+Porfirat Hart	2	1
+Hart	1	1
+Bureau	1	1
+Sciences Historiques	2	1
+Historiques	1	1
+Mores	1	1
+Lyonesse	1	1
+Bunde	1	1
+Asperta	1	1
+Radolien	1	1
+Kiev	1	1
+Charte	1	1
+Fédération	1	1
+Mallow Hall	2	1
+Hall	1	1
+Majorât	1	1
+Levvaw	1	1
+Irréductible	1	1
+Willig	1	1
+Lo	1	1
+Lo Moro	2	1
+Moro	1	1
+Delicas	1	1
+Magnifîco	1	1
+Filiens	1	1
+XYré	1	1
+Ere Galactique	2	1
+Hélicon	1	1
+Arcturus	1	1
+Synnax	1	1
+Gouvernement	1	1
+Gouvernement Impérial	2	1
+Impérial	1	1
+Achille	1	1
+Sécurité	1	1
+Sécurité Publique	2	1
+Publique	1	1
+Entuns	1	1
+Divart	1	1
+Lors Avakim	2	1
+Encyclopedia	1	1
+Encyclopedia Galactica	2	1
+Galactica	1	1
+Commissaire	1	1
+Bibliothèque Impériale	2	1
+Conseil Municipal	2	1
+Municipal	1	1
+Journal de Terminus	3	1
+Véga	1	1
+Konom	1	1
+Daribow	1	1
+Tomas	1	1
+Tomas Sutt	2	1
+Président	1	1
+Obijasi	1	1
+Planète	1	1
+Puissante	1	1
+Puissante Majesté	2	1
+Lundin	1	1
+Lundin Crast	2	1
+Le Maire Hardin	3	1
+Alurin	1	1
+Anacréonien	1	1
+Brutus	1	1
+Samia	1	1
+Lera	1	1
+Paradis Terrestre	2	1
+Terrestre	1	1
+Après Sermak	2	1
+Dokor	1	1
+Dokor Walto	2	1
+Anacréoniens	1	1
+Levi	1	1
+Levi Norast	2	1
+Norast	1	1
+Tarki	1	1
+Navigation	1	1
+Atomo	1	1
+Temple	1	1
+Argolide	1	1
+Temple d'Argolide	2	1
+Glyptal	1	1
+Guilde	1	1
+Limmar	1	1
+Limmar Ponyets	2	1
+Askonien	1	1
+Grand Maitre	2	1
+Maitre	1	1
+Aînés	1	1
+Aîné	1	1
+Amirauté	1	1
+Building	1	1
+Building Hardin	2	1
+Publis	1	1
+Publis Manlio	2	1
+Affaires	1	1
+Affaires Etrangères	2	1
+Etrangères	1	1
+Eglise	1	1
+Pain	1	1
+Education	1	1
+Commodore Asper Argo	3	1
+Demen	1	1
+Upshur	1	1
+Santé	1	1
+Temples de Santé	3	1
+Etoiles Rouges	2	1
+Rouges	1	1
+Police	1	1
+Police Secrète	2	1
+Police Secrète Korellienne	3	1
+Secrète	1	1
+Secrète Korellienne	2	1
+Cour	1	1
+Second	1	1
+Second Foundation	2	1
+Second Foundation Traduction	3	1
+Foundation	1	1
+Foundation Traduction	2	1
+Traduction	1	1
+Pierre	1	1
+Pierre Billon	2	1
+Billon	1	1
+Recherche	1	1
+Traduction de Pierre	3	1
+Nation	1	1
+Création	1	1
+Phase	1	1
+Phase Trois	2	1
+Cinquième	1	1
+Cinquième Orateur	2	1
+Oligarchie	1	1
+Oligarchie de Tazenda	3	1
+Mulets	1	1
+Gouverneur	1	1
+Orateurs	1	1
+Interrègne	1	1
+Composition	1	1
+Rhétorique	1	1
+Félocution	1	1
+Plan Sel	2	1
+Sel	1	1
+Maires	1	1
+Radiant	1	1
+Humanité	1	1
+Olynthus Dam	2	1
+Dam	1	1
+Ingres	1	1
+Adam	1	1
+Stannel	1	1
+Lev	1	1
+Lev Meirus	2	1
+Trésor	1	1
+Dame Cailla	2	1
+Cailla	1	1
+Première Dame	2	1
+Théâtre	1	1
+Théâtre Central	2	1
+Central	1	1
+Avenue	1	1
+Avenue Fleurie	2	1
+Fleurie	1	1
+Poo	1	1
+Consulat	1	1
+Université de Santanni	3	1
+Mulel	1	1
+Seigneur Stellin	2	1
+Stellin	1	1
+Hortnir	1	1
+Hortnir Munn	2	1
+Hanto	1	1
+Arcadia Palver	2	1
+Symes-Molff	1	1
+Orum	1	1
+Orum Dirige	2	1
+Est	1	1
+Trantorien	1	1
+Commission Seldon	2	1
+Arcadia de Kalgan	3	1
+Cosker	1	1
+Fennel	1	1
+Fennel Leemor	2	1
+Locrien	1	1
+Milla	1	1
+Sunni	1	1
+Tomma	1	1
+Kalgamens	1	1
+Vieux	1	1
+Nouvel	1	1
+Nouvel An	2	1
+An	1	1
+Nature	1	1
+Plan du Premier	3	1
+Homme	1	1

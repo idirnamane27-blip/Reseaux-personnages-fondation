@@ -1,0 +1,22 @@
+Candidats au départ (principe 1, moins LP) : 424
+
+Retirés, titre : 13
+  Seconde, Plan, Maire, Commodore, Maître, Seigneur, Bail, Dame, Monsieur, Haut
+
+Retirés, gentilé : 10
+  Siwennien, Kalganiens, Smyrnien, Askoniens, Korellienne, Korelliens, Anacréonien, Anacréoniens, Askonien, Trantorien
+
+Gardés par l'indice préposition : 23
+  Trantor, Kalgan, Anacréon, Terminus, Tazenda, Port, Périphérie, Korell, Rossem, Siwenna
+
+Gardés par l'indice spaCy : 149
+  Fondation, Empire, Galaxie, Seconde Fondation, Kalgan, Terminus, Orateur, Ebling Mis, Marchands, Excellence
+
+Gardés par les deux : 11
+  Kalgan, Terminus, Port, Périphérie, Quatre Royaumes, Union, Hangar, Gamma d'Andromède, Journal, Bunde
+
+Total LL (préposition OU spaCy) : 161
+  Fondation, Empire, Galaxie, Seconde Fondation, Trantor, Kalgan, Anacréon, Terminus, Orateur, Ebling Mis
+
+Rejetés : 240
+  Darell, Barr, Mis, Premier, Marchand, Hari, Hari Seldon, Premier Orateur, Galactique, Lee

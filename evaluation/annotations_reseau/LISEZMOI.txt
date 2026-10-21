@@ -1,0 +1,16 @@
+Annotations de référence pour l'évaluation locale du réseau de personnages (src/reseau/).
+
+Un fichier par bloc de 5 pages de la trilogie (ID de src/reseau/donnees.py:chapitres_trilogie) ;
+une ligne par personnage, ses formes séparées par « ; », écrites exactement comme dans le texte.
+Les occurrences sont retrouvées automatiquement (forme la plus longue d'abord) et les liens calculés
+avec la même règle que le pipeline (25 tokens).
+
+Passages pris dans la trilogie, pas dans le corpus leaderboard : le sujet demande de ne pas annoter
+les chapitres du leaderboard, et on mesure ainsi la généralisation à d'autres livres.
+
+Consignes suivies (annexe 3.1 du sujet) :
+- titres inclus (« Capitaine Pritcher », « seigneur Dorwin ») ;
+- nom commun à majuscule annoté s'il désigne une personne précise, article compris (« le Maire » = Indbur,
+  « le Mulet », « le Premier Orateur ») ; pas s'il désigne une fonction (« l'empereur ») ;
+- choix propre : les formules d'adresse (« Excellence », « Monsieur », « Premier Citoyen », « gente dame »)
+  ne sont pas annotées.

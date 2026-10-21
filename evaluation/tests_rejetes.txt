@@ -1,0 +1,76 @@
+# Essais rejetés et limites connues, avec leurs chiffres.
+# Protocole de LP : réglage sur Fondation et empire seul, puis une exécution sur Fondation + Seconde Fondation
+# (personnages_reference.txt). LL : référence complète reference_lieux.txt (104 noms), 3 livres.
+# Le code des essais rejetés a été supprimé ; une copie est dans ..\AMS-1_sauvegarde_avant_nettoyage.zip.
+
+=== LP (tâche 2) : version gardée = LP2 v4 (k = 1, p = 0,5), F1 = 79,2 % sur Fondation + Seconde Fondation
+
+Ancienne LP (src/lp : règles écrites, dictionnaire de pyspellchecker, Levenshtein, spaCy) - remplacée
+  F1 = 68,7 % sur Fondation + Seconde Fondation (118 lignes, 36 faux, 13 doublons) contre 79,2 % pour LP2 v4.
+  Raison : beaucoup de faux (titres, lieux rares) et de doublons ; fusion de noms par Levenshtein trop risquée
+  (« Erlking » fusionné avec « Ebling Mis »), « Bel Riose » perdu (« Bel » pris pour un titre).
+
+LP2 v1 (exemples sûrs + bayésien naïf, sans dictionnaire) - remplacée
+  F1 = 60,7 % (P 78,8 %, R 49,4 %) sur Fondation + Seconde Fondation.
+  Raison : rappel faible ; aucun titre appris ; sur Verne, 31 lieux sur 52 lignes (les villes suivent « à »).
+
+LP2 v3 (titres appris devant les noms, article permis entre le verbe et le locuteur, k = 5) - rejetée
+  F1 = 60,9 % contre 70,3 % pour la version précédente (LP2 « 1-4 »).
+  Raison : les titres appris étaient surtout des verbes (« murmura », « répliqua ») ; « dit le Maire »,
+  « demanda le Commodore » faisaient de Maire et Commodore des personnes sûres ; k = 5 perdait les noms rares.
+
+Bigrammes dans le bayésien (2 mots à gauche et à droite) - rejetés, deux fois
+  F1 = 69,9 % contre 70,3 % (LP2 1-4), puis 78,3 % contre 79,2 % (LP2 v4).
+  Raison : pas de gain ; un bigramme jamais vu poussait les noms rares vers « non-personne »
+  (« Samuel Fallentin », « Joe Smyth » perdus sur Verne).
+
+LP2 v5 : k = 2 et règle « minuscule » - rejetée
+  F1 = 68,4 % contre 79,2 % (diagnostic : k = 2 seul 73,2 %, règle « minuscule » seule 70,8 %).
+  Raisons : k = 2 exclut les hapax (11 personnages de la référence vus une seule fois perdus) ; la règle
+  « un nom commun doit apparaître en minuscule » fait perdre les formules et titres toujours écrits avec
+  majuscule (Excellence, Majesté, Commodore, Maire redeviennent des faux ou des personnes).
+  Sur Verne et Bel-Ami, v5 faisait mieux (Verne : 17 personnes sur 25 lignes contre 25 sur 51).
+
+Limites connues de LP2 v4 (non corrigées)
+  - Prénoms qui sont aussi des noms communs dans Lexique (« Jacques », « Thomas », « Cassandre », « Bail ») :
+    pris pour des titres (« Cassandre Seldon » -> « Seldon »). Les corriger demandait la règle « minuscule » (v5).
+  - Un nom seul contenu dans plusieurs noms complets n'a pas de ligne (« Darell » : Bayta, Toran, Arcadia Darell).
+  - « Le Mulet » n'est trouvé que par « dit le Mulet » (preuve de personne contre la règle B).
+
+=== LL (tâche 3) : version gardée = préposition OU spaCy + nettoyage_ll (titres de LP2, gentilés), F = 58,1 %
+
+LL : candidats retirés par les titres et les preuves de personne de LP2 - rejeté
+  F = 57,3 % contre 55,7 % (ancienne référence de 117 noms), règle fixée : + 3 points sans perdre de lieu fréquent.
+  Raison : + 1,6 point seulement, et « Première Fondation » (16 occurrences) perdue par la règle des preuves.
+  (Les titres seuls, sans les preuves, ont été repris plus tard dans nettoyage_ll.py : 0 vrai lieu perdu.)
+
+LL2 (src/ll2 : taux de majuscule du premier mot, exemples sûrs, bayésien de LP2 avec <NOM>, gentilés) - rejetée
+  F = 52,6 % contre 53,8 % pour la LL actuelle sur Fondation + Seconde Fondation (pondéré 87,2 % contre 82,3 %).
+  Raison : le taux de majuscule du premier mot élimine les institutions (Gouvernement 0,06, Police 0,10,
+  Université 0,29) ; sur Verne, 68 % de lignes justes mais 47 personnes dans la liste.
+
+LL4 (src/ll4 : famille A = hors dictionnaire et p_personne < 0,4 ; famille B = nom commun et taux >= 0,95) - rejetée
+  F = 34,1 % contre 55,4 % (3 livres) ; rappel 29,8 %.
+  Raison : 51 lieux de la référence sur 104 ne sont vus qu'une fois (fréquence < 2 exigée) ; sur Verne, 31 %
+  de lignes justes (table des matières en capitales).
+
+Exploration : filtres et spaCy sans MISC (mesure non protocolaire)
+  Les meilleures règles générales réunies plafonnent vers 63-64 % ; ôter MISC de l'indice spaCy enlève les œuvres
+  mais perd 7 vrais lieux. Seuls les filtres sans perte (titres, gentilés) ont été gardés dans nettoyage_ll.py.
+
+LL : « cohérence dans le document » (B1 composition « X de lieu sûr », B2 nom + adjectif, B3 morceaux) - rejetée
+  Règle fixée : plus de justes que de faux ET F en hausse. B1 : 0 juste / 1 faux ; B2 : 4 justes / 9 faux
+  (55,7 %) ; B3 : 1 juste / 1 faux (55,7 %) ; ensemble : 52,4 % contre 55,4 %.
+  Raison : la forme ne distingue pas « Bibliothèque Impériale » (lieu) de « Majesté Impériale » (formule).
+
+LL par élimination (toutes les formes de L moins LP, puis 8 éliminations) - rejetée
+  F = 41,0 % contre 55,4 % (P@20 70 % contre 60 %, mais P@100 41 % contre 45 %).
+  Raison : l'élimination des personnes (p_personne >= 0,4) ôte 15 mondes rares (Tazenda, Rossem...) et celle des
+  mots courants 22 institutions (Police, Gouvernement...) ; il reste 140 faux (titres, groupes, œuvres).
+  Deux de ses étapes ne retirent aucun vrai lieu : titres de LP2 et gentilés, reprises dans nettoyage_ll.py.
+
+Limites connues de LL (non corrigées)
+  - La moitié de la référence (51 noms sur 104) n'apparaît qu'une fois : aucune statistique du texte ne suffit.
+  - Les faux restants ont la forme d'un nom de lieu mais n'en sont pas : titres (Orateur, Excellence), œuvres
+    (Encyclopédie, Journal de Terminus), concepts (Esprit Galactique), groupes (Marchands) ; les séparer
+    demanderait un modèle d'entités plus fort que fr_core_news_md (perspective).

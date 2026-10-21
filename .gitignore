@@ -1,0 +1,21 @@
+# Environnements Python (propres à chaque machine)
+.venv/
+.venv_linux/
+__pycache__/
+*.pyc
+
+# Textes des romans d'Asimov : sous droit d'auteur, à placer soi-même (voir README)
+corpus/
+corpus_asimov_leaderboard/
+texte/
+texte_propre/
+
+# Caches et sorties régénérables
+resultats/reseau/cache/
+resultats/reseau/graphml/
+resultats/spacy_lp2/
+resultats/spacy_etiquettes.txt
+
+# Rendu du travail précédent (listes L, LP, LL)
+rendu/
+rendu.zip

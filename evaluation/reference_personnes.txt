@@ -1,0 +1,246 @@
+# Liste de référence : les candidats de L_sans_bruit.txt qui désignent une personne.
+# Annotée à la main (vérifiée dans le texte en cas de doute). Un nom par ligne.
+# Les rôles sans nom (Maire, Marchand, Papa, Premier Orateur...) ne sont pas des noms de personnes.
+Mulet
+Le Mulet
+Mulel
+Seldon
+Hari
+Hari Seldon
+Docteur Seldon
+Cassandre
+Cassandre Seldon
+Hardin
+Salvor
+Salvor Hardin
+Maire Hardin
+Le Maire Hardin
+Mallow
+Hober
+Hober Mallow
+Bayta
+Bay
+Bayta Darell
+Toran
+Torie
+Toran Darell
+Pritcher
+Han
+Han Pritcher
+Capitaine Pritcher
+Capitaine Han
+Capitaine Han Pritcher
+Channis
+Bail
+Bail Channis
+Darell
+Docteur Darell
+Arcadia
+Arkady
+Arcadia Darell
+Arcadia Palver
+Hanto
+Barr
+Ducem
+Ducem Barr
+Onum
+Onum Barr
+Mis
+Ebling
+Ebling Mis
+Docteur Mis
+Riose
+Bel
+Bel Riose
+Anthor
+Pelleas
+Pelleas Anthor
+Devers
+Lathan
+Lathan Devers
+Munn
+Homir
+Homir Munn
+Oncle Homir
+Hortnir
+Hortnir Munn
+Gaal
+Dornick
+Gaal Dornick
+Magnifico
+Magnifîco
+Magnifiée
+Magnifiée Giganticus
+Giganticus
+Ponyets
+Limmar
+Limmar Ponyets
+Sutt
+Jorane
+Jorane Sutt
+Tomas
+Tomas Sutt
+Pirenne
+Lewis
+Lewis Pirenne
+Bort
+Lewis Bort
+Wienis
+Callia
+Dame Callia
+Cailla
+Dame Cailla
+Poochie
+Randu
+Indbur
+Maire Indbur
+Le Maire Indbur
+Lee
+Yohan
+Yohan Lee
+Senter
+Lee Senter
+Twer
+Jaim
+Jaim Twer
+Orsy
+Jaim Orsy
+Brodrig
+Sermak
+Sef
+Sef Sermak
+Turbor
+Gorov
+Eskel
+Eskel Gorov
+Marchand Eskel
+Marchand Eskel Gorov
+Maître Marchand Eskel
+Verisof
+Poly
+Poly Verisof
+Semic
+Elvett
+Elvett Semic
+Lepold
+Lepold Ier
+Kleise
+Forell
+Sennett
+Sennett Forell
+Jael
+Ankor
+Ankor Jael
+Stettin
+Seigneur Stettin
+Le Seigneur Stettin
+Stellin
+Seigneur Stellin
+Le Seigneur Stellin
+Commason
+Jord
+Jord Commason
+Pherl
+Fran
+Iwo
+Cléon
+Cléon Ier
+Stannel
+Dagobert
+Inchney
+Dorwin
+Fara
+Jord Fara
+Parma
+Jord Parma
+Ovall
+Gri
+Ovall Gri
+Rodric
+Haut Rodric
+Anselme
+Anselme Haut
+Anselme Haut Rodric
+Aporat
+Lefkin
+Dirige
+Orum
+Orum Dirige
+Palver
+Preem
+Preem Palver
+Juddee
+Gilmer
+Asper
+Argo
+Asper Argo
+Commodore Asper
+Le Commodore Asper
+Commodore Asper Argo
+Walto
+Dokor
+Dokor Walto
+Manlio
+Publis
+Publis Manlio
+Tinter
+Meirus
+Lev
+Lev Meirus
+Cenn
+Mori
+Luk
+Mori Luk
+Wiscard
+Narovi
+Peurifoy
+Orre
+Hella
+Noth
+Willig
+Garre
+Levvaw
+Gorm
+Holk
+Crast
+Lundin
+Lundin Crast
+Mangin
+Jerril
+Avakim
+Mountel
+Vrank
+Amann
+Porfirat
+Hart
+Porfirat Hart
+Lo
+Moro
+Lo Moro
+Alurin
+Levi
+Norast
+Levi Norast
+Tarki
+Randel
+Demen
+Grum
+Upshur
+Cosker
+Fennel
+Leemor
+Fennel Leemor
+Milla
+Sunni
+Tomma
+Thallos
+Olynthus
+Dam
+Olynthus Dam
+Erlking
+Dixyl
+Yate
+Fulham
+Yate Fulham
+Renard
+Le Renard

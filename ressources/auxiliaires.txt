@@ -1,0 +1,27 @@
+# Formes d'auxiliaires et de verbes modaux qui donnent des inversions « est-il », « a-t-elle », « semblait-il »
+# sans être des verbes de parole : retirées des verbes appris sur les incises (src/reseau/filtre.py).
+est
+était
+sera
+serait
+fut
+a
+avait
+aura
+aurait
+eut
+semble
+semblait
+paraît
+paraissait
+peut
+pouvait
+pourrait
+doit
+devait
+faut
+fallait
+faudrait
+va
+allait
+existe

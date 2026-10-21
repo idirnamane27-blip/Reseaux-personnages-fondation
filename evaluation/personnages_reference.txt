@@ -1,0 +1,117 @@
+# Personnages de reference_personnes.txt, regroupés avec la règle de P5 puis corrigés à la main
+# (surnoms et fautes d'OCR vérifiés avec src.kwic ; un nom seul va au personnage qu'il désigne
+# presque toujours ; Jord, Jaim et Lewis restent seuls car partagés par plusieurs personnages).
+# Une ligne par personnage, ses formes séparées par « | ».
+Hari Seldon | Hari | Seldon | Docteur Seldon
+Le Mulet | Mulet | Mulel
+Ebling Mis | Ebling | Mis | Docteur Mis
+Hober Mallow | Mallow | Hober
+Salvor Hardin | Salvor | Hardin | Le Maire Hardin | Maire Hardin
+Bayta Darell | Bayta | Bay
+Capitaine Han Pritcher | Han Pritcher | Capitaine Pritcher | Capitaine Han | Pritcher | Han
+Toran Darell | Toran | Torie
+Bail Channis | Channis | Bail
+Homir Munn | Homir | Munn | Hortnir Munn | Hortnir | Oncle Homir
+Ducem Barr | Ducem | Barr
+Arcadia Darell | Arcadia | Arcadia Palver | Arkady
+Docteur Darell | Darell
+Pelleas Anthor | Pelleas | Anthor
+Bel Riose | Riose | Bel
+Lathan Devers | Devers | Lathan
+Gaal Dornick | Dornick | Gaal
+Magnifiée Giganticus | Magnifico | Magnifîco | Giganticus | Magnifiée
+Jorane Sutt | Jorane | Sutt
+Limmar Ponyets | Ponyets | Limmar
+Dame Callia | Callia | Dame Cailla | Cailla
+Lewis Pirenne | Pirenne
+Wienis
+Yohan Lee | Yohan | Lee
+Le Maire Indbur | Maire Indbur | Indbur
+Jaim Twer | Twer
+Randu
+Sef Sermak | Sermak | Sef
+Maître Marchand Eskel | Marchand Eskel Gorov | Marchand Eskel | Eskel Gorov | Eskel | Gorov
+Elvett Semic | Elvett | Semic
+Ankor Jael | Ankor | Jael
+Le Seigneur Stettin | Seigneur Stettin | Stettin | Le Seigneur Stellin | Seigneur Stellin | Stellin
+Brodrig
+Poly Verisof | Verisof | Poly
+Sennett Forell | Sennett | Forell
+Turbor
+Anselme Haut Rodric | Anselme Haut | Haut Rodric | Anselme | Rodric
+Lepold Ier | Lepold
+Kleise
+Jord Commason | Commason
+Commodore Asper Argo | Le Commodore Asper | Commodore Asper | Asper Argo | Asper | Argo
+Ovall Gri | Ovall | Gri
+Lee Senter | Senter
+Pherl
+Cléon Ier | Cléon
+Fran
+Jord Fara | Fara
+Inchney
+Jord Parma | Parma
+Jord
+Lewis Bort | Bort
+Preem Palver | Preem | Palver
+Cassandre Seldon | Cassandre
+Dorwin
+Orum Dirige | Dirige | Orum
+Le Renard | Renard
+Aporat
+Gorm
+Lefkin
+Dokor Walto | Walto | Dokor
+Jaim
+Lev Meirus | Meirus | Lev
+Olynthus Dam | Olynthus | Dam
+Poochie
+Publis Manlio | Manlio | Publis
+Yate Fulham | Fulham | Yate
+Gilmer
+Juddee
+Mori Luk | Mori | Luk
+Cenn
+Dagobert
+Fennel Leemor | Leemor | Fennel
+Lundin Crast | Lundin | Crast
+Onum Barr | Onum
+Tinter
+Erlking
+Jaim Orsy | Orsy
+Levi Norast | Norast | Levi
+Lewis
+Lo Moro | Moro | Lo
+Narovi
+Porfirat Hart | Porfirat | Hart
+Wiscard
+Avakim
+Dixyl
+Hella
+Holk
+Iwo
+Jerril
+Mangin
+Noth
+Orre
+Peurifoy
+Tomas Sutt | Tomas
+Alurin
+Amann
+Cosker
+Demen
+Garre
+Grum
+Hanto
+Levvaw
+Milla
+Mountel
+Randel
+Stannel
+Sunni
+Tarki
+Thallos
+Tomma
+Upshur
+Vrank
+Willig

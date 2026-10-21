@@ -1,0 +1,97 @@
+Mulet	225	Mulet
+Seldon	213	Seldon | Plan Seldon | Cassandre Seldon | Docteur Seldon
+Hober Mallow	153	Hober Mallow | Mallow | Hober
+Hardin	131	Hardin | Maire Hardin
+Han Pritcher	128	Han Pritcher | Pritcher | Han | Capitaine Pritcher | Capitaine Han | Capitaine Han Pritcher
+Bayta Darell	116	Bayta Darell | Bayta
+Toran Darell	112	Toran Darell | Toran
+Channis	100	Channis | Bail Channis
+Homir Munn	98	Homir Munn | Munn | Homir | Oncle Homir
+Pelleas Anthor	77	Pelleas Anthor | Anthor | Pelleas
+Bel Riose	76	Bel Riose | Riose | Bel
+Arcadia Darell	74	Arcadia Darell | Arcadia
+Lathan Devers	71	Lathan Devers | Devers | Lathan
+Gaal Dornick	60	Gaal Dornick | Gaal | Dornick
+Ebling	54	Ebling
+Jorane Sutt	49	Jorane Sutt | Sutt | Jorane
+Magnifico	44	Magnifico
+Ponyets	40	Ponyets
+Callia	39	Callia | Dame Callia
+Lewis Pirenne	38	Lewis Pirenne | Pirenne
+Wienis	37	Wienis
+Indbur	30	Indbur | Maire Indbur
+Jaim Twer	29	Jaim Twer | Twer
+Randu	29	Randu
+Sef Sermak	27	Sef Sermak | Sermak | Sef
+Elvett Semic	24	Elvett Semic | Semic | Elvett
+Ankor Jael	23	Ankor Jael | Jael | Ankor
+Brodrig	22	Brodrig
+Ducem Barr	22	Ducem Barr | Ducem
+Turbor	21	Turbor
+Lepold Ier	19	Lepold Ier | Lepold
+Stettin	19	Stettin | Seigneur Stettin
+Verisof	19	Verisof
+Kleise	18	Kleise
+Forell	17	Forell
+Jord Commason	17	Jord Commason | Commason
+Rodric	14	Rodric | Haut Rodric
+Torie	14	Torie
+Lee Senter	13	Lee Senter | Senter
+Maman	13	Maman
+Pherl	13	Pherl
+Bay	12	Bay
+Cléon Ier	12	Cléon Ier | Cléon
+Fran	12	Fran
+Jord Fara	12	Jord Fara | Fara
+Inchney	11	Inchney
+Jord Parma	11	Jord Parma | Parma
+Lewis Bort	10	Lewis Bort | Bort
+Dorwin	9	Dorwin
+Ovall	8	Ovall
+Yohan Lee	8	Yohan Lee | Yohan
+Aporat	7	Aporat
+Arkady	7	Arkady
+Gorm	7	Gorm
+Lefkin	7	Lefkin
+Lens	7	Lens
+Poli	6	Poli
+Poochie	6	Poochie
+Renard	6	Renard
+Yate Fulham	6	Yate Fulham | Fulham | Yate
+Gilmer	5	Gilmer
+Juddee	5	Juddee
+Magnifiée	5	Magnifiée
+Cenn	4	Cenn
+Dagobert	4	Dagobert
+Manlio	4	Manlio
+Meirus	4	Meirus
+Olynthus	4	Olynthus
+Onum Barr	4	Onum Barr | Onum
+Tinter	4	Tinter
+Walto	4	Walto
+Erlking	3	Erlking
+Jaim Orsy	3	Jaim Orsy | Orsy
+Locris	3	Locris
+Luk	3	Luk
+Narovi	3	Narovi
+Wiscard	3	Wiscard
+Anselme	2	Anselme
+Avakim	2	Avakim
+Bien-Aimé	2	Bien-Aimé
+Chen	2	Chen
+Crast	2	Crast
+Dixyl	2	Dixyl
+Eskel Gorov	2	Eskel Gorov
+Hella	2	Hella
+Iwo	2	Iwo
+Jerril	2	Jerril
+Lameth	2	Lameth
+Leemor	2	Leemor
+Mangin	2	Mangin
+Marchand Eskel	2	Marchand Eskel | Maître Marchand Eskel
+Noth	2	Noth
+Orre	2	Orre
+Peurifoy	2	Peurifoy
+Preem	2	Preem
+Radole	2	Radole
+Marchand Eskel Gorov	1	Marchand Eskel Gorov

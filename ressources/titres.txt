@@ -1,0 +1,41 @@
+# Titres placés devant un nom de personne (« Dr Sarton », « R. Daneel »).
+# Les consignes d'annotation du défi les comptent dans l'entité : on les garde dans les noms,
+# mais on les retire pour comparer deux noms entre eux (résolution d'alias).
+m.
+mr
+mr.
+mrs
+mrs.
+mme
+mlle
+dr
+dr.
+docteur
+maître
+maîtresse
+maitre
+monsieur
+madame
+mademoiselle
+sire
+sergent
+lieutenant
+capitaine
+commissaire
+inspecteur
+professeur
+mère
+père
+maman
+r.
+empereur
+seigneur
+haut
+maire
+frère
+sœur
+dame
+commodore
+amiral
+général
+colonel

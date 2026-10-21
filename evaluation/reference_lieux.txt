@@ -1,0 +1,130 @@
+# Liste de référence des lieux et organisations (LL), faite à la main.
+# Construite parmi les candidats de LL_candidats.txt ET parmi LP.txt
+# (des lieux rares ont été pris par LP : ils comptent pour mesurer honnêtement le rappel).
+# Cas douteux vérifiés dans le texte (python -m src.kwic "forme") et marqués d'un « ? ».
+#
+# Définition :
+#   lieu = planète, ville, région, bâtiment nommé ;
+#   organisation = groupe nommé qui agit (institution, gouvernement, université, compagnie) ;
+#   pas les titres, formules, mots courants, gentilés, personnes.
+# Morceaux gardés seulement quand le nom complet dépasse 3 mots (limite de L).
+#
+# Douteux écartés (HORS LL) : Etat (« intérêt de l'Etat »), Espace (juron « Par l'Espace »),
+#   Encyclopédie (l'ouvrage), Journal / Journal de Terminus / Nouvelles Impériales (journaux = objets),
+#   Convention (traité), Grande Galaxie (juron), Soleil (emblème), Locris (un vin), Lera (noix de Lera),
+#   Star (le vaisseau Far Star), Unimara (vaisseau), Marchands (des personnes), Planète (« Planète 5 »),
+#   Empire Universel (une idée), Temples de Santé (une sorte de bâtiment).
+# Retirés le 2026-10-14 (mots courants, morceaux) : Royaumes, Amas, Nébuleuse, Etoiles, Temple, Temples,
+#   Théâtre, Building, Avenue, Fleurie, Service, Bureau. Ajouté : Majorât (« les chefs des grandes
+#   organisations marchandes »).
+# --- Planètes, mondes, régions, astres
+Galaxie
+Trantor
+Kalgan
+Anacréon
+Terminus
+Tazenda
+Port
+Périphérie
+Korell
+Rossem
+Siwenna
+Néotrantor
+Askone
+Terre
+Horleggor
+Bunde
+Glyptal
+Quatre Royaumes
+Gamma ?
+Gamma d'Andromède
+Amas de Lemul
+Nébuleuse de Pelot
+Etoiles Sombres
+Etoiles Rouges
+
+# --- Bâtiments, quartiers, lieux nommés
+Palais
+Hangar
+Le Hangar
+Temple d'Argolide
+Bibliothèque
+Bibliothèque Impériale
+Théâtre Central
+Building Hardin
+Avenue Fleurie
+Consulat
+
+# --- Organisations et institutions
+Fondation
+Fondations
+Seconde Fondation
+Première Fondation
+Empire
+Empire Galactique
+Union
+Conseil
+Conseil d'Administration
+Conseil de Guerre
+Conseil Municipal
+Commission
+Commission Seldon
+Sécurité Publique ?
+Association
+Marchands Indépendants ?
+République
+République Korellienne
+Université
+Université de Santanni
+Académie
+Gouvernement
+Gouvernement Impérial
+Service de Renseignements
+Police
+Police Secrète
+Police Secrète Korellienne
+Parti
+Guilde
+Fédération
+Eglise
+Cour ?
+Trésor ?
+Information ?
+Education ?
+Affaires Etrangères ?
+Cartels ?
+Majorât
+
+# --- Lieux pris par LP (perdus d'avance pour LL)
+Smyrno
+Santanni
+Pléiades
+Radole
+Newton
+Arcturus
+Daribow
+Konom
+Mores
+Lyonesse
+Asperta
+Paramay
+Synnax
+Véga
+Hélicon
+Delicas
+Samia
+Argolide
+Loris
+Vincetori
+Pelot
+Andromède
+Lemul
+Stanmark
+Gentri
+Zéon
+Mallow Hall
+End ?
+Etats-frontière ?
+Amirauté
+Oligarchie ?
+Oligarchie de Tazenda

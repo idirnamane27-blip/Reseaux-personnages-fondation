@@ -1,0 +1,20 @@
+# Pronoms (pour les verbes + pronom : « Tenez-vous », « Dit-il »)
+moi
+toi
+nous
+vous
+je
+tu
+il
+ils
+elle
+elles
+on
+ce
+le
+la
+les
+lui
+leur
+y
+en

@@ -1,0 +1,151 @@
+Mulet	1	225
+Seldon	1	187
+Hardin	1	127
+Mallow	1	123
+Bayta	1	115
+Toran	1	111
+Pritcher	1	92
+Channis	1	88
+Arcadia	1	73
+Riose	1	60
+Anthor	1	59
+Devers	1	57
+Ebling	1	54
+Munn	1	53
+Gaal	1	49
+Magnifico	1	44
+Ponyets	1	40
+Sutt	1	39
+Pirenne	1	37
+Wienis	1	37
+Homir	1	31
+Callia	1	30
+Randu	1	29
+Indbur	1	27
+Twer	1	24
+Brodrig	1	22
+Plan Seldon	2	21
+Sermak	1	21
+Turbor	1	21
+Semic	1	19
+Verisof	1	19
+Kleise	1	18
+Lepold	1	18
+Forell	1	17
+Jael	1	17
+Han	1	16
+Han Pritcher	2	16
+Hober	1	15
+Hober Mallow	2	15
+Stettin	1	15
+Commason	1	14
+Torie	1	14
+Homir Munn	2	13
+Maman	1	13
+Pherl	1	13
+Bail Channis	2	12
+Bay	1	12
+Fran	1	12
+Cléon	1	11
+Ducem	1	11
+Ducem Barr	2	11
+Inchney	1	11
+Pelleas	1	11
+Dame Callia	2	9
+Dorwin	1	9
+Fara	1	9
+Senter	1	9
+Bel	1	8
+Bel Riose	2	8
+Bort	1	8
+Ovall	1	8
+Aporat	1	7
+Arkady	1	7
+Gorm	1	7
+Haut Rodric	2	7
+Lathan	1	7
+Lathan Devers	2	7
+Lefkin	1	7
+Lens	1	7
+Parma	1	7
+Pelleas Anthor	2	7
+Rodric	1	7
+Dornick	1	6
+Poli	1	6
+Poochie	1	6
+Renard	1	6
+Gaal Dornick	2	5
+Gilmer	1	5
+Jaim Twer	2	5
+Jorane	1	5
+Jorane Sutt	2	5
+Juddee	1	5
+Magnifiée	1	5
+Cassandre Seldon	2	4
+Cenn	1	4
+Dagobert	1	4
+Jord Parma	2	4
+Lee Senter	2	4
+Maire Hardin	2	4
+Manlio	1	4
+Meirus	1	4
+Olynthus	1	4
+Seigneur Stettin	2	4
+Tinter	1	4
+Walto	1	4
+Yohan	1	4
+Yohan Lee	2	4
+Ankor	1	3
+Ankor Jael	2	3
+Elvett	1	3
+Erlking	1	3
+Jord Commason	2	3
+Jord Fara	2	3
+Locris	1	3
+Luk	1	3
+Maire Indbur	2	3
+Narovi	1	3
+Sef	1	3
+Sef Sermak	2	3
+Wiscard	1	3
+Anselme	1	2
+Avakim	1	2
+Bien-Aimé	1	2
+Capitaine Pritcher	2	2
+Chen	1	2
+Crast	1	2
+Dixyl	1	2
+Elvett Semic	2	2
+Eskel Gorov	2	2
+Fulham	1	2
+Hella	1	2
+Iwo	1	2
+Jerril	1	2
+Lameth	1	2
+Leemor	1	2
+Lewis Bort	2	2
+Mangin	1	2
+Noth	1	2
+Onum	1	2
+Onum Barr	2	2
+Orre	1	2
+Orsy	1	2
+Peurifoy	1	2
+Preem	1	2
+Radole	1	2
+Yate	1	2
+Yate Fulham	2	2
+Arcadia Darell	2	1
+Bayta Darell	2	1
+Capitaine Han	2	1
+Capitaine Han Pritcher	3	1
+Cléon Ier	2	1
+Docteur Seldon	2	1
+Jaim Orsy	2	1
+Lepold Ier	2	1
+Lewis Pirenne	2	1
+Marchand Eskel	2	1
+Marchand Eskel Gorov	3	1
+Maître Marchand Eskel	3	1
+Oncle Homir	2	1
+Toran Darell	2	1

@@ -1,0 +1,240 @@
+Corpus : Fondation_et_empire_impaires.txt, Fondation_impaires.txt, Seconde_Fondation_impaires.txt
+114795 tokens, L : 1517 formes dont 1102 mots seuls ; k = 1, p = 0.5
+
+Étape 1 - majuscule : 1102 -> 181 mots (taux_maj >= 0.9, fréquence >= 1.1)
+  retirés, sans minuscule : 69 : II, A, S, P, V, ENCYCLOPEDIA, GALACTICA, F, IV, O, VI, T, I, III, PARTIE, PDQ, Y, D, FRQWUHF, LE, LES, VII, IX, K, PREMIERE, Q, SELDON, VIII, XU, BAIL, BEL, C, CHANNIS, CHAPITRE, COMMISSION, DE, DIRECTIONS, GH, GÉNÉRAL, HARI ...
+  retirés, jamais en milieu de phrase : 176 : Eh, Oh, Ah, Ecoutez, Etes-vous, Ecoutez-moi, Laissez-moi, Hum, Bah, Excusez-moi, Songez, Arrêtez-le, Peuh, Secundo, Supposons, Tertio, Voudriez-vous, Dites-leur, Etant, Existe-t-il, Fichtre, Hmmm, Homo, Hé, Inscrivez, Laisse-moi, Pardonnez-moi, Parlez-nous, Pensiez-vous, Qu, Regardez-moi, Réfléchissez, Sennett, Ultra-secret, Abasourdie, Accepterez-vous, Accrochez-vous, Achetez, Agrandissez, Aidez-moi ...
+  retirés, minuscule : 573 : Il, Je, Vous, Le, Et, Mais, La, Les, Nous, Elle, Ce, Seconde, Ils, Si, Un, On, En, Oui, Une, Que, Non, Mis, Cela, Dans, Comment, Alors, Plan, Votre, Pour, De, Premier, Puis, Son, Pourquoi, Tout, Pas, Ça, Tu, Cette, Des ...
+  retirés, rare : 103 : Académie, Achille, Adam, Age, Alurin, Amann, Amirauté, Arcturus, Argolide, Asperta, Atomo, Avenue, Aînés, Billon, Brutus, Building, Bunde, Cailla, Charte, Consulat, Cosker, Dam, Daribow, Delicas, Demen, Divart, Dokor, Education, Eglise, Encyclopedia, Entuns, Etats-frontière, Etrangères, Fennel, Filiens, Fleurie, Foundation, Félocution, Galactica, Giganticus ...
+  gardés : Fondation, Mulet, Seldon, Empire, Galaxie, Hardin, Mallow, Bayta, Toran, Pritcher, Channis, Trantor, Darell, Kalgan, Arcadia, Barr, Anacréon, Riose, Anthor, Terminus, Devers, Ebling, Munn, Maire, Gaal, Marchand, Magnifico, Hari, Orateur, Ponyets, Sutt, Pirenne, Wienis, Homir, Callia, Tazenda, Commodore, Randu, Indbur, Excellence ...
+
+Règle A - titres (nom commun du dictionnaire devant un nom de l'étape 1 >= 3 fois, ou abréviation hors dictionnaire suivie d'un point >= 90 % puis d'un nom) : 21
+  seconde (nom commun, 119 fois) : Fondation
+  docteur (nom commun, 54 fois) : Darell, Dornick, Gaal, Kleise, Lewis, Pirenne, Seldon, Semic
+  capitaine (nom commun, 30 fois) : Dixyl, Han, Pritcher
+  plan (nom commun, 21 fois) : Seldon
+  seigneur (nom commun, 15 fois) : Barr, Brodrig, Dorwin, Jord, Stettin
+  crise (nom commun, 13 fois) : Seldon
+  bail (nom commun, 12 fois) : Channis
+  monsieur (nom commun, 10 fois) : Anthor, Hardin, Homir, Munn, Turbor
+  dame (nom commun, 9 fois) : Callia
+  planète (nom commun, 7 fois) : Port, Terminus
+  haut (nom commun, 7 fois) : Rodric
+  maire (nom commun, 7 fois) : Hardin, Indbur
+  far (nom commun, 5 fois) : Star
+  maître (nom commun, 4 fois) : Marchand
+  oncle (nom commun, 4 fois) : Homir
+  cassandre (nom commun, 4 fois) : Seldon
+  révérend (nom commun, 4 fois) : Jord, Parma
+  général (nom commun, 3 fois) : Han, Pritcher
+  colonel (nom commun, 3 fois) : Pritcher
+  commodore (nom commun, 3 fois) : Asper
+  miss (nom commun, 3 fois) : Erlking
+
+Étape 2 - exemples sûrs
+  verbes de parole appris (10) : ajouta, commença, continua, demanda, disait, dit, fit, murmura, reprit, souffla
+  personnes (locuteur d'incise >= 2, article permis, jamais un titre) : 35 : Mulet, Seldon, Hardin, Mallow, Bayta, Toran, Pritcher, Darell, Arcadia, Barr, Riose, Anthor, Devers, Ebling, Munn, Gaal, Magnifico, Pirenne, Randu, Indbur, Lee, Twer, Brodrig, Sermak, Turbor, Gorov, Semic, Forell, Jael, Hober, Commason, Fran, Bort, Aporat, Renard
+  non-personnes : 52 : Fondation, Empire, Galaxie, Trantor, Kalgan, Anacréon, Terminus, Maire, Commodore, Port, Etat, Korell, Fondations, Siwenna, Encyclopédie, Néotrantor, Askone, Commission, Smyrno, Lens, Procureur, Union, Asper, Association, Far, Juddee, Dagobert, Encyclopédistes, Ere, Askoniens, Locris, Narovi, Rossemites, Unimara, Bien-Aimé, Canal, Cartels, Etoiles, Gamma, Gentri ...
+    dont sur/vers/dans/à/en >= 20 % : Trantor, Kalgan, Anacréon, Terminus, Port, Korell, Siwenna, Néotrantor, Askone, Asper, Juddee, Dagobert, Locris, Etoiles, Gamma, Holk, Horleggor, Iwo, Newton, Stanmark
+    dont article >= 50 % et jamais locuteur : Fondation, Empire, Galaxie, Maire, Commodore, Etat, Encyclopédie, Commission, Procureur, Union, Association, Far, Encyclopédistes, Ere, Askoniens, Rossemites, Unimara, Bien-Aimé, Cartels, Etoiles, Paradis, Pléiades
+    dont spaCy LOC >= 70 % : Empire, Galaxie, Channis, Terminus, Ponyets, Sutt, Wienis, Port, Etat, Fondations, Smyrno, Lens, Procureur, Askoniens, Narovi, Unimara, Canal, Cartels, Gentri, Iwo, Leemor, Lemul, Orre, Pelot, Pléiades, Radole
+  article >= 50 % mais locuteur (pas exemples) : Mulet, Marchand, Renard
+  dans les deux groupes, retirés des deux : 4 : Channis, Ponyets, Sutt, Wienis
+
+Étape 3 - bayésien naïf : 181 -> 122 personnes (p >= 0.5)
+  ajoutés aux exemples au 2e tour (p > 0.9) : 3 : Lewis, Dixyl, Hella
+  exemples sûrs perdus : 
+  non-personnes sûres gardées : Maire, Commodore, Lens, Procureur, Juddee, Dagobert, Locris, Narovi, Bien-Aimé, Iwo, Leemor, Orre, Radole
+  p de chaque candidat (du plus fréquent au moins fréquent) :
+    Fondation           0.02  retiré
+    Mulet               0.63  GARDÉ
+    Seldon              0.80  GARDÉ
+    Empire              0.03  retiré
+    Galaxie             0.06  retiré
+    Hardin              0.87  GARDÉ
+    Mallow              0.86  GARDÉ
+    Bayta               0.81  GARDÉ
+    Toran               0.84  GARDÉ
+    Pritcher            0.83  GARDÉ
+    Channis             0.76  GARDÉ
+    Trantor             0.30  retiré
+    Darell              0.87  GARDÉ
+    Kalgan              0.30  retiré
+    Arcadia             0.72  GARDÉ
+    Barr                0.89  GARDÉ
+    Anacréon            0.26  retiré
+    Riose               0.80  GARDÉ
+    Anthor              0.83  GARDÉ
+    Terminus            0.26  retiré
+    Devers              0.87  GARDÉ
+    Ebling              0.94  GARDÉ
+    Munn                0.83  GARDÉ
+    Maire               0.50  GARDÉ
+    Gaal                0.87  GARDÉ
+    Marchand            0.50  GARDÉ
+    Magnifico           0.73  GARDÉ
+    Hari                0.42  retiré
+    Orateur             0.30  retiré
+    Ponyets             0.83  GARDÉ
+    Sutt                0.75  GARDÉ
+    Pirenne             0.86  GARDÉ
+    Wienis              0.65  GARDÉ
+    Homir               0.71  GARDÉ
+    Callia              0.70  GARDÉ
+    Tazenda             0.48  retiré
+    Commodore           0.58  GARDÉ
+    Randu               0.87  GARDÉ
+    Indbur              0.82  GARDÉ
+    Excellence          0.69  GARDÉ
+    Lee                 0.90  GARDÉ
+    Twer                0.79  GARDÉ
+    Brodrig             0.78  GARDÉ
+    Port                0.33  retiré
+    Sermak              0.73  GARDÉ
+    Turbor              0.88  GARDÉ
+    Gorov               0.86  GARDÉ
+    Semic               0.83  GARDÉ
+    Verisof             0.76  GARDÉ
+    Kleise              0.67  GARDÉ
+    Lepold              0.69  GARDÉ
+    Forell              0.77  GARDÉ
+    Jael                0.87  GARDÉ
+    Etat                0.07  retiré
+    Han                 0.82  GARDÉ
+    Hober               0.97  GARDÉ
+    Korell              0.38  retiré
+    Stettin             0.70  GARDÉ
+    Commason            0.84  GARDÉ
+    Fondations          0.09  retiré
+    Majesté             0.50  retiré
+    Rossem              0.49  retiré
+    Torie               0.81  GARDÉ
+    Maman               0.71  GARDÉ
+    Pherl               0.71  GARDÉ
+    Bail                0.78  GARDÉ
+    Bay                 0.89  GARDÉ
+    Fran                0.86  GARDÉ
+    Siwenna             0.29  retiré
+    Cléon               0.62  GARDÉ
+    Ducem               0.76  GARDÉ
+    Encyclopédie        0.02  retiré
+    Inchney             0.72  GARDÉ
+    Néotrantor          0.17  retiré
+    Pelleas             0.79  GARDÉ
+    Jord                0.69  GARDÉ
+    Salvor              0.19  retiré
+    Dorwin              0.69  GARDÉ
+    Fara                0.74  GARDÉ
+    Senter              0.67  GARDÉ
+    Askone              0.14  retiré
+    Bel                 0.79  GARDÉ
+    Bort                0.89  GARDÉ
+    Commission          0.00  retiré
+    Ovall               0.62  GARDÉ
+    Smyrno              0.48  retiré
+    Aporat              0.83  GARDÉ
+    Arkady              0.53  GARDÉ
+    Gorm                0.52  GARDÉ
+    Lathan              0.73  GARDÉ
+    Lefkin              0.71  GARDÉ
+    Lens                0.57  GARDÉ
+    Parma               0.74  GARDÉ
+    Rodric              0.64  GARDÉ
+    Dornick             0.51  GARDÉ
+    End                 0.38  retiré
+    Jaim                0.61  GARDÉ
+    Palver              0.44  retiré
+    Poli                0.87  GARDÉ
+    Poochie             0.74  GARDÉ
+    Procureur           0.62  GARDÉ
+    Renard              0.70  GARDÉ
+    Union               0.14  retiré
+    Visi-Sonor          0.42  retiré
+    Asper               0.24  retiré
+    Association         0.02  retiré
+    Cassandre           0.36  retiré
+    Far                 0.16  retiré
+    Gilmer              0.71  GARDÉ
+    Jorane              0.84  GARDÉ
+    Juddee              0.77  GARDÉ
+    Magnifiée           0.75  GARDÉ
+    Star                0.47  retiré
+    Altesse             0.40  retiré
+    Cenn                0.68  GARDÉ
+    Dagobert            0.63  GARDÉ
+    Encyclopédistes     0.05  retiré
+    Ere                 0.00  retiré
+    Manlio              0.82  GARDÉ
+    Meirus              0.82  GARDÉ
+    Olynthus            0.52  GARDÉ
+    Santanni            0.48  retiré
+    Tinter              0.75  GARDÉ
+    Walto               0.72  GARDÉ
+    Yohan               0.89  GARDÉ
+    Ankor               0.73  GARDÉ
+    Argo                0.38  retiré
+    Askoniens           0.03  retiré
+    Elvett              0.85  GARDÉ
+    Erlking             0.57  GARDÉ
+    Gri                 0.40  retiré
+    Korellienne         0.47  retiré
+    Lewis               0.96  GARDÉ
+    Locris              0.53  GARDÉ
+    Luk                 0.57  GARDÉ
+    Narovi              0.64  GARDÉ
+    Rossemites          0.04  retiré
+    Sef                 0.90  GARDÉ
+    Unimara             0.09  retiré
+    Wiscard             0.70  GARDÉ
+    Andromède           0.19  retiré
+    Anselme             0.71  GARDÉ
+    Auguste             0.15  retiré
+    Avakim              0.55  GARDÉ
+    Bien-Aimé           0.58  GARDÉ
+    Canal               0.48  retiré
+    Cartels             0.05  retiré
+    Chen                0.64  GARDÉ
+    Crast               0.65  GARDÉ
+    Dixyl               0.95  GARDÉ
+    Eskel               0.69  GARDÉ
+    Etoiles             0.02  retiré
+    Fulham              0.53  GARDÉ
+    Gamma               0.44  retiré
+    Gentri              0.47  retiré
+    Hella               0.93  GARDÉ
+    Holk                0.46  retiré
+    Horleggor           0.09  retiré
+    Ier                 0.50  GARDÉ
+    Iwo                 0.57  GARDÉ
+    Jerril              0.69  GARDÉ
+    Lameth              0.52  GARDÉ
+    Leemor              0.55  GARDÉ
+    Lemul               0.41  retiré
+    Mangin              0.76  GARDÉ
+    Newton              0.40  retiré
+    Noth                0.62  GARDÉ
+    Onum                0.71  GARDÉ
+    Orre                0.59  GARDÉ
+    Orsy                0.88  GARDÉ
+    Paradis             0.48  retiré
+    Pelot               0.47  retiré
+    Peurifoy            0.53  GARDÉ
+    Pléiades            0.09  retiré
+    Preem               0.73  GARDÉ
+    Radole              0.69  GARDÉ
+    Seigneurie          0.55  GARDÉ
+    Stanmark            0.37  retiré
+    Vincetori           0.45  retiré
+    Yate                0.65  GARDÉ
+    Zéon                0.47  retiré
+
+Étape 5 - regroupement
+  noms complets : 31 : Ankor Jael, Arcadia Darell, Bayta Darell, Bel Riose, Cléon Ier, Ducem Barr, Elvett Semic, Eskel Gorov, Gaal Dornick, Han Pritcher, Hober Mallow, Homir Munn, Jaim Orsy, Jaim Twer, Jorane Sutt, Jord Commason, Jord Fara, Jord Parma, Lathan Devers, Lee Senter, Lepold Ier, Lewis Bort, Lewis Pirenne, Marchand Eskel, Marchand Eskel Gorov, Onum Barr, Pelleas Anthor, Sef Sermak, Toran Darell, Yate Fulham, Yohan Lee
+  formes dont on a retiré le titre : Bail Channis -> Channis, Capitaine Han -> Han, Capitaine Han Pritcher -> Han Pritcher, Capitaine Pritcher -> Pritcher, Cassandre Seldon -> Seldon, Dame Callia -> Callia, Docteur Darell -> Darell, Docteur Seldon -> Seldon, Haut Rodric -> Rodric, Maire Hardin -> Hardin, Maire Indbur -> Indbur, Maître Marchand -> Marchand, Maître Marchand Eskel -> Marchand Eskel, Oncle Homir -> Homir, Plan Seldon -> Seldon, Seigneur Stettin -> Stettin
+  noms seuls rattachés : Ankor -> Ankor Jael, Anthor -> Pelleas Anthor, Arcadia -> Arcadia Darell, Bayta -> Bayta Darell, Bel -> Bel Riose, Bort -> Lewis Bort, Cléon -> Cléon Ier, Commason -> Jord Commason, Devers -> Lathan Devers, Dornick -> Gaal Dornick, Ducem -> Ducem Barr, Elvett -> Elvett Semic, Fara -> Jord Fara, Fulham -> Yate Fulham, Gaal -> Gaal Dornick, Han -> Han Pritcher, Hober -> Hober Mallow, Homir -> Homir Munn, Jael -> Ankor Jael, Jorane -> Jorane Sutt, Lathan -> Lathan Devers, Lepold -> Lepold Ier, Mallow -> Hober Mallow, Munn -> Homir Munn, Onum -> Onum Barr, Orsy -> Jaim Orsy, Parma -> Jord Parma, Pelleas -> Pelleas Anthor, Pirenne -> Lewis Pirenne, Pritcher -> Han Pritcher, Riose -> Bel Riose, Sef -> Sef Sermak, Semic -> Elvett Semic, Senter -> Lee Senter, Sermak -> Sef Sermak, Sutt -> Jorane Sutt, Toran -> Toran Darell, Twer -> Jaim Twer, Yate -> Yate Fulham, Yohan -> Yohan Lee
+  noms seuls ambigus (pas de ligne) : Barr (Ducem Barr / Onum Barr), Darell (Arcadia Darell / Bayta Darell / Toran Darell), Eskel (Eskel Gorov / Marchand Eskel / Marchand Eskel Gorov), Gorov (Eskel Gorov / Marchand Eskel Gorov), Ier (Cléon Ier / Lepold Ier), Jaim (Jaim Twer / Jaim Orsy), Jord (Jord Parma / Jord Commason / Jord Fara), Lee (Lee Senter / Yohan Lee), Lewis (Lewis Bort / Lewis Pirenne), Marchand (Marchand Eskel / Marchand Eskel Gorov)
+  règle B, lignes nom commun supprimées (aucune preuve) : 3 : Excellence, Procureur, Seigneurie
+  règle B, lignes nom commun gardées (preuve de personne) : Maman (1 incises), Mulet (4 incises), Renard (2 incises)
+
+LP2 : 97 personnages
+Durée : 19.1 s

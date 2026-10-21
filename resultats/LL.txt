@@ -1,0 +1,161 @@
+Fondation	1	400	spacy
+Empire	1	152	spacy
+Galaxie	1	140	spacy
+Seconde Fondation	2	119	spacy
+Trantor	1	83	prep
+Kalgan	1	76	prep+spacy
+Anacréon	1	64	prep
+Terminus	1	58	prep+spacy
+Orateur	1	42	spacy
+Ebling Mis	2	36	spacy
+Marchands	1	33	spacy
+Tazenda	1	30	prep
+Excellence	1	26	spacy
+Grand	1	26	spacy
+Conseil	1	22	spacy
+Espace	1	22	spacy
+Port	1	22	prep+spacy
+Périphérie	1	19	prep+spacy
+Empire Galactique	2	16	spacy
+Etat	1	16	spacy
+Première Fondation	2	16	spacy
+Esprit	1	15	spacy
+Korell	1	15	prep
+Fondations	1	14	spacy
+Premier Citoyen	2	14	spacy
+Rossem	1	14	prep
+Siwenna	1	12	prep
+Encyclopédie	1	11	spacy
+Néotrantor	1	11	prep
+Seigneurs	1	10	spacy
+Esprit Galactique	2	9	spacy
+Royaumes	1	9	spacy
+Anciens	1	8	spacy
+Askone	1	8	prep
+Commission	1	8	spacy
+Quatre Royaumes	2	8	prep+spacy
+Sa Majesté Impériale	3	8	spacy
+Smyrno	1	8	spacy
+Seigneur de Kalgan	3	7	spacy
+Conseil d'Administration	2	6	spacy
+Marchands Indépendants	2	6	spacy
+Nébuleuse	1	6	spacy
+Procureur	1	6	spacy
+Union	1	6	prep+spacy
+Visi-Sonor	1	6	spacy
+Association	1	5	spacy
+Far Star	2	5	spacy
+Astronef	1	4	spacy
+Soleil	1	4	spacy
+Votre Altesse	2	4	spacy
+Argo	1	3	spacy
+Grand Pillage	2	3	spacy
+Grand Prêtre	2	3	spacy
+Grande Galaxie	2	3	spacy
+Hangar	1	3	prep+spacy
+Nouvelles Impériales	2	3	spacy
+Palais	1	3	spacy
+Rossemites	1	3	spacy
+République	1	3	spacy
+Seigneurs de Tazenda	3	3	spacy
+Unimara	1	3	spacy
+Université	1	3	spacy
+Votre Majesté	2	3	spacy
+Amas	1	2	spacy
+Ancien	1	2	spacy
+Canal	1	2	spacy
+Cartels	1	2	spacy
+Convention	1	2	spacy
+Etoiles	1	2	prep
+Filien	1	2	spacy
+Gamma	1	2	prep
+Gamma d'Andromède	2	2	prep+spacy
+Gentri	1	2	spacy
+Horleggor	1	2	prep
+Information	1	2	spacy
+Journal	1	2	prep+spacy
+Lemul	1	2	spacy
+Nébuleuse de Pelot	3	2	spacy
+Plan de Seldon	3	2	spacy
+Pléiades	1	2	spacy
+République Korellienne	2	2	spacy
+Son Excellence	2	2	spacy
+Stanmark	1	2	spacy
+Votre Excellence	2	2	spacy
+Votre Majesté Impériale	3	2	spacy
+Zéon	1	2	spacy
+Affaires Etrangères	2	1	spacy
+Age Héroïque	2	1	spacy
+Alurin	1	1	spacy
+Amirauté	1	1	spacy
+Arcturus	1	1	spacy
+Asperta	1	1	spacy
+Atomo	1	1	spacy
+Avenue Fleurie	2	1	spacy
+Bibliothèque Impériale	2	1	spacy
+Building Hardin	2	1	spacy
+Bunde	1	1	prep+spacy
+Cinquième Orateur	2	1	spacy
+Commissaire	1	1	spacy
+Commission Seldon	2	1	spacy
+Commodore Asper Argo	3	1	spacy
+Composition	1	1	spacy
+Conseil Municipal	2	1	spacy
+Conseil de Guerre	3	1	spacy
+Consulat	1	1	spacy
+Cour	1	1	spacy
+Création	1	1	spacy
+Divart	1	1	spacy
+Education	1	1	spacy
+Eglise	1	1	spacy
+Empire Universel	2	1	spacy
+Encyclopedia Galactica	2	1	spacy
+Entuns	1	1	spacy
+Ere Galactique	2	1	spacy
+Etats-frontière	1	1	spacy
+Etoiles Rouges	2	1	prep+spacy
+Etoiles Sombres	2	1	spacy
+Fennel Leemor	2	1	spacy
+Filiens	1	1	spacy
+Félocution	1	1	spacy
+Glyptal	1	1	prep
+Hélicon	1	1	spacy
+Impériaux	1	1	spacy
+Journal de Terminus	3	1	spacy
+Kalgamens	1	1	spacy
+Kiev	1	1	spacy
+Konom	1	1	spacy
+Loris	1	1	spacy
+Lors Avakim	2	1	spacy
+Lundin Crast	2	1	spacy
+Lyonesse	1	1	spacy
+Magnifiée Giganticus	2	1	spacy
+Magnifîco	1	1	spacy
+Majorât	1	1	spacy
+Mallow Hall	2	1	spacy
+Mores	1	1	spacy
+Mulets	1	1	spacy
+Nouvel An	2	1	spacy
+Oligarchie de Tazenda	3	1	spacy
+Orum Dirige	2	1	spacy
+Pain	1	1	spacy
+Paradis Terrestre	2	1	spacy
+Pax Imperium	2	1	spacy
+Phase Trois	2	1	spacy
+Police Secrète Korellienne	3	1	spacy
+Radolien	1	1	spacy
+Recherche	1	1	spacy
+Sa Splendeur Impériale	3	1	spacy
+Second Foundation Traduction	3	1	spacy
+Seigneur Stellin	2	1	spacy
+Service de Renseignements	3	1	spacy
+Stanel	1	1	spacy
+Symes-Molff	1	1	spacy
+Synnax	1	1	spacy
+Temple d'Argolide	2	1	spacy
+Trésor	1	1	spacy
+Université de Santanni	3	1	spacy
+Upshur	1	1	spacy
+Vieux	1	1	spacy
+Véga	1	1	spacy
+XYré	1	1	spacy

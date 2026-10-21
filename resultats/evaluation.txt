@@ -1,0 +1,25 @@
+LP par personnage (personnages_reference.txt, 113 personnages)
+  livre                              lignes   réf  justes  doublons  faux  ratés       P       R      F1
+  Fondation_et_empire (réglage)          37    43      33         3     1     10   89.2%   76.7%   82.5%
+  Fondation                              42    50      35         3     4     15   83.3%   70.0%   76.1%
+  Seconde_Fondation                      32    36      27         1     4      9   84.4%   75.0%   79.4%
+  Total                                  97   113      82         7     8     31   84.5%   72.6%   78.1%
+
+LP par forme (reference_personnes.txt, 243 noms)
+  liste                    lignes  justes  faux  ratés       P       R       F   |  P pond.  R pond.  F pond.
+  LP_formes.txt               151     142     9    101   94.0%   58.4%   72.1%   |    97.8%    81.1%    88.7%
+
+LL (reference_lieux.txt, 104 noms, dont 51 vus une seule fois ; 1 pris par LP : Radole)
+  liste                    lignes  justes  faux  ratés       P       R       F   |  P pond.  R pond.  F pond.
+  préposition seule            23      21     2     83   91.3%   20.2%   33.1%   |    99.1%    30.2%    46.3%
+  spaCy seul                  149      66    83     38   44.3%   63.5%   52.2%   |    73.8%    80.4%    76.9%
+  LL (préposition OU spaCy)    161      77    84     27   47.8%   74.0%   58.1%   |    77.2%    97.0%    86.0%
+  précision des premières lignes de LL (par fréquence) : P@20 = 65%, P@50 = 54%, P@100 = 52%
+
+=== LP_formes.txt
+En trop   : Plan Seldon (21), Maman (13), Lens (7), Poli (6), Locris (3), Bien-Aimé (2), Chen (2), Lameth (2), Radole (2)
+Manquants : Darell (79), Barr (73), Mis (69), Hari (42), Hari Seldon (42), Ebling Mis (36), Le Mulet (33), Lee (26), Gorov (20), Bail (12), Jord (10), Salvor (10), Salvor Hardin (10), Dirige (7), Jaim (6), Palver (6), Asper (5), Cassandre (5), Argo (3), Commodore Asper (3), Gri (3), Lewis (3), Ovall Gri (3), Anselme Haut (2), Anselme Haut Rodric (2), Asper Argo (2), Eskel (2), Holk (2), Le Commodore Asper (2), Le Renard (2), Preem Palver (2), Sennett (2), Sennett Forell (2), Alurin (1), Amann (1), Arcadia Palver (1), Cailla (1), Commodore Asper Argo (1), Cosker (1), Dam (1), Dame Cailla (1), Demen (1), Docteur Darell (1), Docteur Mis (1), Dokor (1), Dokor Walto (1), Fennel (1), Fennel Leemor (1), Garre (1), Giganticus (1), Grum (1), Hanto (1), Hart (1), Hortnir (1), Hortnir Munn (1), Le Maire Hardin (1), Le Maire Indbur (1), Le Seigneur Stellin (1), Le Seigneur Stettin (1), Lev (1), Lev Meirus (1), Levi (1), Levi Norast (1), Levvaw (1), Limmar (1), Limmar Ponyets (1), Lo (1), Lo Moro (1), Lundin (1), Lundin Crast (1), Magnifiée Giganticus (1), Magnifîco (1), Milla (1), Mori (1), Mori Luk (1), Moro (1), Mountel (1), Mulel (1), Norast (1), Olynthus Dam (1), Orum (1), Orum Dirige (1), Poly (1), Poly Verisof (1), Porfirat (1), Porfirat Hart (1), Publis (1), Publis Manlio (1), Randel (1), Seigneur Stellin (1), Stannel (1), Stellin (1), Sunni (1), Tarki (1), Thallos (1), Tomas (1), Tomas Sutt (1), Tomma (1), Upshur (1), Vrank (1), Willig (1)
+
+=== LL.txt
+En trop   : Orateur (42), Ebling Mis (36), Marchands (33), Excellence (26), Grand (26), Espace (22), Etat (16), Esprit (15), Premier Citoyen (14), Encyclopédie (11), Seigneurs (10), Esprit Galactique (9), Royaumes (9), Anciens (8), Sa Majesté Impériale (8), Seigneur de Kalgan (7), Nébuleuse (6), Procureur (6), Visi-Sonor (6), Far Star (5), Astronef (4), Soleil (4), Votre Altesse (4), Argo (3), Grand Pillage (3), Grand Prêtre (3), Grande Galaxie (3), Nouvelles Impériales (3), Rossemites (3), Seigneurs de Tazenda (3), Unimara (3), Votre Majesté (3), Amas (2), Ancien (2), Canal (2), Convention (2), Etoiles (2), Filien (2), Journal (2), Plan de Seldon (2), Son Excellence (2), Votre Excellence (2), Votre Majesté Impériale (2), Age Héroïque (1), Alurin (1), Atomo (1), Cinquième Orateur (1), Commissaire (1), Commodore Asper Argo (1), Composition (1), Création (1), Divart (1), Empire Universel (1), Encyclopedia Galactica (1), Entuns (1), Ere Galactique (1), Fennel Leemor (1), Filiens (1), Félocution (1), Impériaux (1), Journal de Terminus (1), Kalgamens (1), Kiev (1), Lors Avakim (1), Lundin Crast (1), Magnifiée Giganticus (1), Magnifîco (1), Mulets (1), Nouvel An (1), Orum Dirige (1), Pain (1), Paradis Terrestre (1), Pax Imperium (1), Phase Trois (1), Radolien (1), Recherche (1), Sa Splendeur Impériale (1), Second Foundation Traduction (1), Seigneur Stellin (1), Stanel (1), Symes-Molff (1), Upshur (1), Vieux (1), XYré (1)
+Manquants : End (6), Santanni (4), Amas de Lemul (2), Andromède (2), Bibliothèque (2), Newton (2), Parti (2), Pelot (2), Radole (2), Vincetori (2), Académie (1), Argolide (1), Daribow (1), Delicas (1), Fédération (1), Gouvernement (1), Gouvernement Impérial (1), Guilde (1), Le Hangar (1), Oligarchie (1), Paramay (1), Police (1), Police Secrète (1), Samia (1), Sécurité Publique (1), Terre (1), Théâtre Central (1)

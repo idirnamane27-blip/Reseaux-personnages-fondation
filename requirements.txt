@@ -1,0 +1,5 @@
+pymupdf
+spacy
+networkx
+pandas
+scipy
