@@ -147,6 +147,19 @@ biparti, sim_p / sim_r pour les nœuds, Jaccard pour aligner les arêtes). Les r
 (`chapitres_trilogie()`), pas des chapitres du leaderboard, que le sujet demande de ne pas annoter.
 Le script donne le score par passage et liste les nœuds en trop, manqués et mélangés.
 
+### Scores
+
+| Version | Ajout | Kaggle | Local |
+|---|---|---|---|
+| v1 | spaCy PER + titres + alias par inclusion | 0.48210 | |
+| v2 | filtre (minuscule, gentilés, lieux), bords d'entité, casse, titres seuls | 0.63420 | |
+| v3 | rappel des noms validés dans tout le livre, alias au niveau du livre | 0.69532 | |
+| v4 | surnoms (même nom de famille + prénoms proches, abréviations) | 0.72574 | 0.658 |
+| v5 | locuteurs d'incise, article des surnoms (« le Mulet »), noms communs, titres | 0.74077 | 0.900 |
+
+Score local sur 4 passages annotés de la trilogie (optimiste pour v5 : règles corrigées en regardant ces passages).
+Les soumissions sont archivées dans `resultats/reseau/soumissions/`.
+
 1. **donnees.py** : lit les chapitres, recolle les traits d'union de fin de ligne, met le texte sur une ligne.
 2. **ner.py** : entités PER de spaCy (`fr_core_news_md`), étendues au titre qui précède (`ressources/titres.txt`) :
    la référence annote « Dr Sarton » en entier.
