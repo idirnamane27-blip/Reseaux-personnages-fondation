@@ -4,3 +4,4 @@ networkx
 pandas
 scipy
 matplotlib
+adjustText

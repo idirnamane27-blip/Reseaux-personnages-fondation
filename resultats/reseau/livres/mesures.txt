@@ -12,12 +12,12 @@ le Marchand                        25     7    10     24          0.185
 Sef Sermak                         21     5     7     23          0.051
 Yohan Lee                          21     5     4     23          0.000
 communautés (15) :
-  1. Salvor Hardin, Lewis Pirenne, Wienis, Yohan Lee, Sef Sermak, Poly Verisof, Lepold Ier, Dorwin, Lewis Bort, Anselme Rodric ...
-  2. Hober Mallow, Jaim Twer, Ankor Jael, Grand Prêtre, Tinter, Jorane Sutt, Onum Barr, Jord Parma, Wiscard, Hmmm ...
+  1. Salvor Hardin, Lewis Pirenne, Wienis, Sef Sermak, Yohan Lee, Lepold Ier, Poly Verisof, Dorwin, Lewis Bort, Anselme Rodric ...
+  2. Hober Mallow, Jaim Twer, Ankor Jael, Grand Prêtre, Tinter, Jorane Sutt, Onum Barr, Jord Parma, Wiscard, Publis Manlio ...
   3. Hari Seldon, Gaal Dornick, Cassandre Seldon, Achille, Cléon Ier
-  4. le Marchand, Marchand Eskel Gorov, le Grand, Pherl, Gorm, Limmar Ponyets, Randel, Grand des Temples, Calmez
-  5. Lefkin, Aporat
-  6. Asper Argo, de la République Korellienne
+  4. le Marchand, Marchand Eskel Gorov, le Grand, Pherl, Gorm, Limmar Ponyets, Randel, Calmez, Grand des Temples
+  5. Aporat, Lefkin
+  6. de la République Korellienne, Asper Argo
 
 == Fondation et Empire (fee)
 47 personnages, 111 liens, densité 0.103, 8 composantes (dont 7 isolés)
@@ -33,9 +33,9 @@ Bel Riose                          59     9     7     43          0.260
 Lathan Devers                      56     6    10     43          0.067
 Randu                              29     6    11     41          0.072
 communautés (11) :
-  1. Bayta, le Mulet, Toran, Mis, Magnifico, Han Pritcher, Torie, Magnifiée, Noth, Willig ...
+  1. Bayta, le Mulet, Toran, Mis, Magnifico, Han Pritcher, Torie, Magnifiée, Willig, Noth ...
   2. Ducem Barr, Bel Riose, Lathan Devers, le Marchand, Brodrig, Hober Mallow, Sennett Forell, Cléon II, Majesté Impériale, Mountel de Paramay ...
-  3. Hari Seldon, Randu, Indbur, Fran, Ovall Gri, Porfirat Hart, Mangin
+  3. Hari Seldon, Randu, Indbur, Fran, Ovall Gri, Mangin, Porfirat Hart
   4. Jord Commason, Inchney
 
 == Seconde Fondation (sdf)
@@ -52,8 +52,8 @@ Hari Seldon                        54    19    11     30          0.027
 Elvett Semic                       20     5     7     24          0.000
 Kleise                             18     3     6     22          0.000
 communautés (16) :
-  1. A. Darell, Pelleas Anthor, Homir Munn, Elvett Semic, Kleise, Turbor, Dirige, Arkady, Poli, Terminez ...
+  1. A. Darell, Pelleas Anthor, Homir Munn, Elvett Semic, Kleise, Turbor, Dirige, Arkady, Poli, Adam ...
   2. le Mulet, Bail Channis, Han Pritcher, Hari Seldon, Mis, le Premier Orateur, Vincetori, Bel Riose
-  3. Arcadia, Callia, le Premier Citoyen, Papa, Preem Palver, Lev Meirus, Hanto, Retirez, Hortnir Munn, Olynthus Dam ...
-  4. Tomma, Sunni, Milla
+  3. Arcadia, Callia, le Premier Citoyen, Papa, Preem Palver, Hanto, Lev Meirus, Hortnir Munn, Olynthus Dam, Poo ...
+  4. Milla, Tomma, Sunni
   5. Salvor Hardin, Hober Mallow

@@ -145,6 +145,9 @@ est dans `resultats/reseau/cache/<corpus>/`.
 `resultats/reseau/livres/` (un `.graphml` et un `.png` par roman, `mesures.txt` : degré, intermédiarité,
 communautés). L'analyse qualitative est dans `resultats/reseau/livres/analyse.md`.
 
+**Article** (4 pages, style Interspeech) : `article/` (`main.tex`, `mybib.bib`, figures en PDF), à compiler sur
+Overleaf depuis le modèle « Interspeech Paper Kit » (voir `article/LISEZMOI.md`).
+
 **Évaluation locale** : `evaluation/metrique_reseau.py` recode la métrique du sujet (section 3.3 : couplage
 biparti, sim_p / sim_r pour les nœuds, Jaccard pour aligner les arêtes). Les références sont dans
 `evaluation/annotations_reseau/` (consignes dans LISEZMOI.txt) : des blocs de 5 pages de la trilogie

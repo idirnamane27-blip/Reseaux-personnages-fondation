@@ -1,15 +1,17 @@
 passage    N-P   N-R  N-F1   A-P   A-R  A-F1  score
-fee14     0.90  1.00  0.95  0.95  1.00  0.98  0.961
-fon0      0.67  1.00  0.80  0.50  1.00  0.67  0.733
-fon6      1.00  0.88  0.93  1.00  1.00  1.00  0.967
-sdf7      0.78  1.00  0.88  1.00  1.00  1.00  0.938
-MOYENNE   0.84  0.97  0.89  0.86  1.00  0.91  0.900
+fee14     1.00  0.78  0.88  1.00  0.10  0.18  0.528
+fon0      0.67  1.00  0.80  0.00  0.00  0.00  0.400
+fon6      1.00  0.88  0.93  1.00  0.60  0.75  0.842
+sdf7      0.80  0.80  0.80  1.00  0.25  0.40  0.600
+MOYENNE   0.87  0.86  0.85  0.75  0.24  0.33  0.593
 
-== fee14 : 9 personnages, 20 liens dans la référence ; prédit 10 nœuds, 21 liens
-   en trop  : Mallow
-== fon0 : 2 personnages, 1 liens dans la référence ; prédit 3 nœuds, 2 liens
+== fee14 : 9 personnages, 20 liens dans la référence ; prédit 7 nœuds, 2 liens
+   manqué   : Toran
+   manqué   : Capitaine Pritcher
+== fon0 : 2 personnages, 1 liens dans la référence ; prédit 3 nœuds, 1 liens
    en trop  : Achille
-== fon6 : 8 personnages, 5 liens dans la référence ; prédit 7 nœuds, 5 liens
+== fon6 : 8 personnages, 5 liens dans la référence ; prédit 7 nœuds, 3 liens
    manqué   : Alurin
-== sdf7 : 5 personnages, 4 liens dans la référence ; prédit 6 nœuds, 4 liens
+== sdf7 : 5 personnages, 4 liens dans la référence ; prédit 5 nœuds, 1 liens
    en trop  : Premier Citoyen
+   manqué   : Seldon
