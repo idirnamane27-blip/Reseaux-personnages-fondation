@@ -22,6 +22,9 @@ ARTICLES_CONTRACTES = {"au", "aux", "du", "des"}
 SUFFIXES_GENTILES = ("ien", "iens", "ienne", "iennes", "ite", "ites")
 ELISIONS = re.compile(r"^[LlDd][’']")
 ROMAIN = re.compile(r"^[IVXLC]+$")
+# fin de réplique ou de phrase prise dans l'entité : « Preem Palver - le Premier Orateur », « Channis ? Ai-je »,
+# « Seldon. - Oh » ; le point d'une initiale ou d'un titre abrégé reste (« A. Darell », « R. Daneel »)
+COUPURE = re.compile(r"\s+[-–—?!…]+(?:\s|$)|\s*[?!…]+\s|(?<=\w\w)\.(?:\s|$)")
 TOKEN = re.compile(r"[\w’'-]+|[^\w\s]")
 INCISE = re.compile(r"^(\w+)-(?:t-)?(?:il|elle)$")  # « dit-il », « demanda-t-elle »
 AVANT_INCISE = {",", "?", "!", "…", "»", '"'}       # « ..., demanda-t-il » ; pas « Existe-t-il » en début de phrase
@@ -89,8 +92,9 @@ class Filtre:
     def normaliser(self, m):
         """Corrige les bords d'entité mal placés par spaCy :
         « L’Empereur » -> « Empereur » ; « Jéhu galopa » -> « Jéhu » ; « VI Le Maire » -> « Le Maire » ;
+        « Mulet - conquérant » -> « Mulet » ; « S. - Oui » -> « S. » (puis rejeté : trop court) ;
         en début de phrase seulement, « Grimace de Seldon » -> « Seldon » (mais « le Premier Orateur » reste)."""
-        mots = ELISIONS.sub("", m.texte).split()
+        mots = COUPURE.split(ELISIONS.sub("", m.texte))[0].split()
         while len(mots) > 1 and mots[-1][0].islower():
             mots.pop()
         while len(mots) > 1 and ROMAIN.match(mots[0]):
@@ -133,6 +137,8 @@ class Filtre:
                 return None  # « fit Mis », « dit le Mulet » : personne sûre
             if self.plutot_minuscule(forme):
                 return "minuscule ailleurs"
+            # pas de règle « jamais en milieu de phrase » (« Atterrissez ») : essayée en v6, elle ne retire que du
+            # bruit sur le leaderboard mais le score Kaggle baisse (0.74077 -> 0.72747)
             if self.est_lieu(forme):
                 return "lieu"
             # « Excellence », « Livre » (règle B de LP) ; un titre prouve la personne : « R. Sammy »

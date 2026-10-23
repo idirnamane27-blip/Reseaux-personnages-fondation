@@ -1,0 +1,515 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d2" for="node" attr.name="blocs" attr.type="long" />
+  <key id="d1" for="node" attr.name="mentions" attr.type="long" />
+  <key id="d0" for="node" attr.name="names" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="le Mulet">
+      <data key="d0">Mulet;le Mulet</data>
+      <data key="d1">113</data>
+      <data key="d2">21</data>
+    </node>
+    <node id="Bail Channis">
+      <data key="d0">Bail Channis;Channis</data>
+      <data key="d1">88</data>
+      <data key="d2">8</data>
+    </node>
+    <node id="A. Darell">
+      <data key="d0">A. Darell;Darell;Docteur Darell;docteur Darell</data>
+      <data key="d1">77</data>
+      <data key="d2">13</data>
+    </node>
+    <node id="Arcadia">
+      <data key="d0">Arcadia</data>
+      <data key="d1">73</data>
+      <data key="d2">15</data>
+    </node>
+    <node id="Homir Munn">
+      <data key="d0">Homir;Homir Munn;Munn;monsieur Homir Munn;monsieur Munn</data>
+      <data key="d1">70</data>
+      <data key="d2">10</data>
+    </node>
+    <node id="Pelleas Anthor">
+      <data key="d0">Anthor;Pelleas;Pelleas Anthor;monsieur Anthor</data>
+      <data key="d1">63</data>
+      <data key="d2">11</data>
+    </node>
+    <node id="Han Pritcher">
+      <data key="d0">Han Pritcher;Pritcher;capitaine Pritcher;général Han Pritcher;général Pritcher</data>
+      <data key="d1">54</data>
+      <data key="d2">10</data>
+    </node>
+    <node id="Hari Seldon">
+      <data key="d0">Hari Seldon;Seldon</data>
+      <data key="d1">54</data>
+      <data key="d2">19</data>
+    </node>
+    <node id="Callia">
+      <data key="d0">Callia;Dame Callia</data>
+      <data key="d1">30</data>
+      <data key="d2">7</data>
+    </node>
+    <node id="le Premier Orateur">
+      <data key="d0">Le Premier Orateur;Premier Orateur;le Premier Orateur</data>
+      <data key="d1">28</data>
+      <data key="d2">9</data>
+    </node>
+    <node id="Papa">
+      <data key="d0">Papa</data>
+      <data key="d1">21</data>
+      <data key="d2">3</data>
+    </node>
+    <node id="Turbor">
+      <data key="d0">Turbor;monsieur Turbor</data>
+      <data key="d1">21</data>
+      <data key="d2">5</data>
+    </node>
+    <node id="Elvett Semic">
+      <data key="d0">Elvett;Elvett Semic;Semic;docteur Semic</data>
+      <data key="d1">20</data>
+      <data key="d2">5</data>
+    </node>
+    <node id="Kleise">
+      <data key="d0">Kleise;docteur Kleise</data>
+      <data key="d1">18</data>
+      <data key="d2">3</data>
+    </node>
+    <node id="le Premier Citoyen">
+      <data key="d0">Premier Citoyen;le Premier Citoyen</data>
+      <data key="d1">14</data>
+      <data key="d2">9</data>
+    </node>
+    <node id="Mis">
+      <data key="d0">Mis</data>
+      <data key="d1">9</data>
+      <data key="d2">4</data>
+    </node>
+    <node id="Dirige">
+      <data key="d0">Dirige;Lieutenant;lieutenant Dirige</data>
+      <data key="d1">8</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="Arkady">
+      <data key="d0">Arkady</data>
+      <data key="d1">7</data>
+      <data key="d2">3</data>
+    </node>
+    <node id="Poli">
+      <data key="d0">Poli</data>
+      <data key="d1">6</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Preem Palver">
+      <data key="d0">Palver;Preem Palver</data>
+      <data key="d1">6</data>
+      <data key="d2">4</data>
+    </node>
+    <node id="Lev Meirus">
+      <data key="d0">Lev Meirus;Meirus</data>
+      <data key="d1">4</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Olynthus Dam">
+      <data key="d0">Olynthus;Olynthus Dam</data>
+      <data key="d1">4</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Hober Mallow">
+      <data key="d0">Hober Mallow</data>
+      <data key="d1">2</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="Premier Ministre">
+      <data key="d0">Premier Ministre</data>
+      <data key="d1">2</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Vincetori">
+      <data key="d0">Vincetori</data>
+      <data key="d1">2</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Adam">
+      <data key="d0">Adam</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Atterrissez">
+      <data key="d0">Atterrissez</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Bayta Darell">
+      <data key="d0">Bayta Darell</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Bel Riose">
+      <data key="d0">Bel Riose</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Cailla">
+      <data key="d0">Dame Cailla</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Hanto">
+      <data key="d0">Hanto</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Hortnir Munn">
+      <data key="d0">Hortnir Munn</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Ingres">
+      <data key="d0">Ingres</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Milla">
+      <data key="d0">Milla</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Montrez">
+      <data key="d0">Montrez</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Mulel">
+      <data key="d0">Mulel</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Pierre Billon">
+      <data key="d0">Pierre Billon</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Poo">
+      <data key="d0">Poo</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Primo">
+      <data key="d0">Primo</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Radiant">
+      <data key="d0">Radiant</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Retirez">
+      <data key="d0">Retirez</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Salvor Hardin">
+      <data key="d0">Salvor Hardin</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Stannel V">
+      <data key="d0">Stannel V</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Sunni">
+      <data key="d0">Sunni</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="T. V">
+      <data key="d0">T. V</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Terminez">
+      <data key="d0">Terminez</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Thallos">
+      <data key="d0">Thallos</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Tomma">
+      <data key="d0">Tomma</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Toran Darell">
+      <data key="d0">Toran Darell</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <edge source="le Mulet" target="le Premier Citoyen">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="le Mulet" target="Han Pritcher">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="le Mulet" target="Bail Channis">
+      <data key="d3">24</data>
+    </edge>
+    <edge source="le Mulet" target="Hari Seldon">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="le Mulet" target="le Premier Orateur">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="le Mulet" target="Mis">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="le Mulet" target="Pelleas Anthor">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="le Mulet" target="Kleise">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="le Mulet" target="Homir Munn">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="le Mulet" target="Elvett Semic">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="le Mulet" target="Arcadia">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="le Mulet" target="Callia">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="le Mulet" target="A. Darell">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bail Channis" target="Han Pritcher">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="Bail Channis" target="Vincetori">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Bail Channis" target="le Premier Citoyen">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bail Channis" target="le Premier Orateur">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Bail Channis" target="Hari Seldon">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="A. Darell" target="Arcadia">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="A. Darell" target="Hari Seldon">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="A. Darell" target="Arkady">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="A. Darell" target="Pelleas Anthor">
+      <data key="d3">31</data>
+    </edge>
+    <edge source="A. Darell" target="Kleise">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="A. Darell" target="Homir Munn">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="A. Darell" target="Turbor">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="A. Darell" target="Poli">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="A. Darell" target="Elvett Semic">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="A. Darell" target="Dirige">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="A. Darell" target="le Premier Orateur">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arcadia" target="Hari Seldon">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Arcadia" target="Pelleas Anthor">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="Arcadia" target="Olynthus Dam">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arcadia" target="Poli">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arcadia" target="Homir Munn">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="Arcadia" target="Poo">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arcadia" target="le Premier Citoyen">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Arcadia" target="Callia">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="Arcadia" target="Retirez">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arcadia" target="Papa">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="Arcadia" target="Hortnir Munn">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Arcadia" target="Hanto">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Arcadia" target="Preem Palver">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Arcadia" target="Turbor">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Homir Munn" target="Kleise">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Homir Munn" target="Pelleas Anthor">
+      <data key="d3">23</data>
+    </edge>
+    <edge source="Homir Munn" target="Turbor">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="Homir Munn" target="Adam">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Homir Munn" target="Arkady">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Homir Munn" target="Callia">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Homir Munn" target="Dirige">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Homir Munn" target="Elvett Semic">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Homir Munn" target="Hari Seldon">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Pelleas Anthor" target="Kleise">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Pelleas Anthor" target="Turbor">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Pelleas Anthor" target="Adam">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Pelleas Anthor" target="Poli">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Pelleas Anthor" target="Elvett Semic">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="Pelleas Anthor" target="Dirige">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Pelleas Anthor" target="Terminez">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Pelleas Anthor" target="Hari Seldon">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="Pelleas Anthor" target="Callia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Han Pritcher" target="Mis">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Hari Seldon" target="le Premier Citoyen">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hari Seldon" target="Bel Riose">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Hari Seldon" target="le Premier Orateur">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hari Seldon" target="Callia">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Hari Seldon" target="Mis">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Callia" target="le Premier Citoyen">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Callia" target="Lev Meirus">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Callia" target="Retirez">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Papa" target="Hanto">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Papa" target="Preem Palver">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Turbor" target="Kleise">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Turbor" target="Elvett Semic">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Elvett Semic" target="Kleise">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Elvett Semic" target="Dirige">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="le Premier Citoyen" target="Mis">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="le Premier Citoyen" target="Lev Meirus">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="le Premier Citoyen" target="Poo">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="le Premier Citoyen" target="Montrez">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Preem Palver" target="Hanto">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lev Meirus" target="Cailla">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Olynthus Dam" target="Ingres">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hober Mallow" target="Salvor Hardin">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Milla" target="Sunni">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Milla" target="Tomma">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sunni" target="Tomma">
+      <data key="d3">1</data>
+    </edge>
+  </graph>
+</graphml>

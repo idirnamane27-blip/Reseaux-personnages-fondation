@@ -141,6 +141,10 @@ python -m evaluation.evaluation_reseau        # évaluation locale -> resultats/
 Le pipeline est dans `src/reseau/pipeline.py` (même code pour la soumission et l'évaluation) ; le cache spaCy
 est dans `resultats/reseau/cache/<corpus>/`.
 
+**Graphes par livre (trilogie)** : `python -m src.reseau.livres` puis `python -m src.reseau.figures` ->
+`resultats/reseau/livres/` (un `.graphml` et un `.png` par roman, `mesures.txt` : degré, intermédiarité,
+communautés). L'analyse qualitative est dans `resultats/reseau/livres/analyse.md`.
+
 **Évaluation locale** : `evaluation/metrique_reseau.py` recode la métrique du sujet (section 3.3 : couplage
 biparti, sim_p / sim_r pour les nœuds, Jaccard pour aligner les arêtes). Les références sont dans
 `evaluation/annotations_reseau/` (consignes dans LISEZMOI.txt) : des blocs de 5 pages de la trilogie
@@ -156,6 +160,7 @@ Le script donne le score par passage et liste les nœuds en trop, manqués et m�
 | v3 | rappel des noms validés dans tout le livre, alias au niveau du livre | 0.69532 | |
 | v4 | surnoms (même nom de famille + prénoms proches, abréviations) | 0.72574 | 0.658 |
 | v5 | locuteurs d'incise, article des surnoms (« le Mulet »), noms communs, titres | 0.74077 | 0.900 |
+| v6 | + rejet des mots jamais vus avec une majuscule en milieu de phrase (retirée : le code produit v5) | 0.72747 | 0.966 |
 
 Score local sur 4 passages annotés de la trilogie (optimiste pour v5 : règles corrigées en regardant ces passages).
 Les soumissions sont archivées dans `resultats/reseau/soumissions/`.

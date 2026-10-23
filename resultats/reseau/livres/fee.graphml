@@ -1,0 +1,577 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d2" for="node" attr.name="blocs" attr.type="long" />
+  <key id="d1" for="node" attr.name="mentions" attr.type="long" />
+  <key id="d0" for="node" attr.name="names" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Bayta">
+      <data key="d0">Bayta</data>
+      <data key="d1">114</data>
+      <data key="d2">14</data>
+    </node>
+    <node id="le Mulet">
+      <data key="d0">Mulet;le Mulet</data>
+      <data key="d1">112</data>
+      <data key="d2">15</data>
+    </node>
+    <node id="Toran">
+      <data key="d0">Toran</data>
+      <data key="d1">110</data>
+      <data key="d2">13</data>
+    </node>
+    <node id="Ducem Barr">
+      <data key="d0">Barr;Ducem Barr;seigneur Barr</data>
+      <data key="d1">63</data>
+      <data key="d2">8</data>
+    </node>
+    <node id="Mis">
+      <data key="d0">Docteur Mis;Mis;docteur Mis</data>
+      <data key="d1">60</data>
+      <data key="d2">11</data>
+    </node>
+    <node id="Bel Riose">
+      <data key="d0">Bel Riose;Riose</data>
+      <data key="d1">59</data>
+      <data key="d2">9</data>
+    </node>
+    <node id="Hari Seldon">
+      <data key="d0">Hari Seldon;Seldon</data>
+      <data key="d1">58</data>
+      <data key="d2">17</data>
+    </node>
+    <node id="Lathan Devers">
+      <data key="d0">Devers;Lathan Devers</data>
+      <data key="d1">56</data>
+      <data key="d2">6</data>
+    </node>
+    <node id="Magnifico">
+      <data key="d0">Magnifico</data>
+      <data key="d1">44</data>
+      <data key="d2">11</data>
+    </node>
+    <node id="Han Pritcher">
+      <data key="d0">Capitaine Han Pritcher;Capitaine Pritcher;Han Pritcher;Pritcher;capitaine Han Pritcher;capitaine Pritcher;colonel Pritcher</data>
+      <data key="d1">38</data>
+      <data key="d2">8</data>
+    </node>
+    <node id="Indbur">
+      <data key="d0">Indbur;Maire;Maire Indbur</data>
+      <data key="d1">32</data>
+      <data key="d2">5</data>
+    </node>
+    <node id="Randu">
+      <data key="d0">Randu</data>
+      <data key="d1">29</data>
+      <data key="d2">6</data>
+    </node>
+    <node id="Brodrig">
+      <data key="d0">Brodrig;seigneur Brodrig</data>
+      <data key="d1">22</data>
+      <data key="d2">5</data>
+    </node>
+    <node id="le Marchand">
+      <data key="d0">Le Marchand;Marchand;le Marchand</data>
+      <data key="d1">19</data>
+      <data key="d2">7</data>
+    </node>
+    <node id="Sennett Forell">
+      <data key="d0">Forell;Sennett Forell</data>
+      <data key="d1">17</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="Jord Commason">
+      <data key="d0">Commason;Jord Commason;seigneur Jord Commason</data>
+      <data key="d1">14</data>
+      <data key="d2">3</data>
+    </node>
+    <node id="Torie">
+      <data key="d0">Torie</data>
+      <data key="d1">14</data>
+      <data key="d2">8</data>
+    </node>
+    <node id="Fran">
+      <data key="d0">Fran</data>
+      <data key="d1">12</data>
+      <data key="d2">3</data>
+    </node>
+    <node id="Inchney">
+      <data key="d0">Inchney</data>
+      <data key="d1">11</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="Cléon II">
+      <data key="d0">Cléon;Cléon II</data>
+      <data key="d1">10</data>
+      <data key="d2">5</data>
+    </node>
+    <node id="Lee Senter">
+      <data key="d0">Lee;Lee Senter;Senter</data>
+      <data key="d1">10</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="Majesté Impériale">
+      <data key="d0">Majesté Impériale</data>
+      <data key="d1">10</data>
+      <data key="d2">5</data>
+    </node>
+    <node id="Hober Mallow">
+      <data key="d0">Hober Mallow;Mallow</data>
+      <data key="d1">9</data>
+      <data key="d2">5</data>
+    </node>
+    <node id="Ovall Gri">
+      <data key="d0">Ovall;Ovall Gri</data>
+      <data key="d1">8</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Gilmer">
+      <data key="d0">Gilmer</data>
+      <data key="d1">5</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Magnifiée">
+      <data key="d0">Magnifiée</data>
+      <data key="d1">5</data>
+      <data key="d2">5</data>
+    </node>
+    <node id="Mori Luk">
+      <data key="d0">sergent Luk;sergent Mori Luk</data>
+      <data key="d1">3</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Hella">
+      <data key="d0">Hella</data>
+      <data key="d1">2</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Horleggor">
+      <data key="d0">Horleggor</data>
+      <data key="d1">2</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="Mangin">
+      <data key="d0">Mangin</data>
+      <data key="d1">2</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Newton">
+      <data key="d0">Newton</data>
+      <data key="d1">2</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="Noth">
+      <data key="d0">Noth</data>
+      <data key="d1">2</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Salvor Hardin">
+      <data key="d0">Salvor Hardin</data>
+      <data key="d1">2</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="Amann">
+      <data key="d0">docteur Amann</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Dagobert IX">
+      <data key="d0">Dagobert IX</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Dispersez">
+      <data key="d0">Dispersez</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Figurez">
+      <data key="d0">Figurez</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Levvaw">
+      <data key="d0">Levvaw</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Lo Moro">
+      <data key="d0">Lo Moro</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Mnémon">
+      <data key="d0">Mnémon</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Mountel de Paramay">
+      <data key="d0">Mountel de Paramay</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Porfirat Hart">
+      <data key="d0">Porfirat Hart</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Préparez">
+      <data key="d0">Préparez</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Puis Devers">
+      <data key="d0">Puis Devers</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Sa Seigneurie">
+      <data key="d0">Sa Seigneurie</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Vrank">
+      <data key="d0">Vrank</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Willig">
+      <data key="d0">Willig</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <edge source="Bayta" target="Toran">
+      <data key="d3">41</data>
+    </edge>
+    <edge source="Bayta" target="Hari Seldon">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="Bayta" target="Fran">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Bayta" target="le Marchand">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bayta" target="Torie">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="Bayta" target="le Mulet">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="Bayta" target="Magnifiée">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Bayta" target="Magnifico">
+      <data key="d3">27</data>
+    </edge>
+    <edge source="Bayta" target="Porfirat Hart">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bayta" target="Mis">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="Bayta" target="Han Pritcher">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Bayta" target="Mnémon">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bayta" target="Dagobert IX">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bayta" target="Majesté Impériale">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bayta" target="Lee Senter">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="le Mulet" target="Torie">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="le Mulet" target="Toran">
+      <data key="d3">22</data>
+    </edge>
+    <edge source="le Mulet" target="le Marchand">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="le Mulet" target="Magnifiée">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="le Mulet" target="Magnifico">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="le Mulet" target="Hari Seldon">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="le Mulet" target="Han Pritcher">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="le Mulet" target="Fran">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="le Mulet" target="Horleggor">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="le Mulet" target="Randu">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="le Mulet" target="Mangin">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="le Mulet" target="Ovall Gri">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="le Mulet" target="Indbur">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="le Mulet" target="Mis">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="le Mulet" target="Levvaw">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="le Mulet" target="Willig">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="le Mulet" target="Noth">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="le Mulet" target="Newton">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="le Mulet" target="Jord Commason">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Toran" target="Torie">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Toran" target="le Marchand">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Toran" target="Fran">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Toran" target="Randu">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Toran" target="Hari Seldon">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Toran" target="Porfirat Hart">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Toran" target="Han Pritcher">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Toran" target="Magnifico">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="Toran" target="Indbur">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Toran" target="Mis">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="Toran" target="Lee Senter">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ducem Barr" target="Bel Riose">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="Ducem Barr" target="Majesté Impériale">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Ducem Barr" target="Mountel de Paramay">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ducem Barr" target="Lathan Devers">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="Ducem Barr" target="le Marchand">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Ducem Barr" target="Brodrig">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Ducem Barr" target="Hari Seldon">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Ducem Barr" target="Cléon II">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Ducem Barr" target="Sennett Forell">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Mis" target="Indbur">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="Mis" target="Hari Seldon">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="Mis" target="Magnifico">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="Mis" target="Randu">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Mis" target="Han Pritcher">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Mis" target="Horleggor">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bel Riose" target="Hari Seldon">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="Bel Riose" target="Brodrig">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Bel Riose" target="Lathan Devers">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="Bel Riose" target="le Marchand">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Bel Riose" target="Vrank">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bel Riose" target="Cléon II">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Hari Seldon" target="Sennett Forell">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hari Seldon" target="Lathan Devers">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hari Seldon" target="Brodrig">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hari Seldon" target="Fran">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Hari Seldon" target="Randu">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Hari Seldon" target="Porfirat Hart">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hari Seldon" target="Indbur">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Hari Seldon" target="Magnifico">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Lathan Devers" target="le Marchand">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="Lathan Devers" target="Brodrig">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lathan Devers" target="Sennett Forell">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Lathan Devers" target="Cléon II">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lathan Devers" target="Randu">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Lathan Devers" target="Fran">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lathan Devers" target="Hober Mallow">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Magnifico" target="Indbur">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Magnifico" target="Jord Commason">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Han Pritcher" target="Fran">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Han Pritcher" target="Indbur">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Han Pritcher" target="Randu">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Han Pritcher" target="Willig">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Han Pritcher" target="Noth">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Han Pritcher" target="Lo Moro">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Han Pritcher" target="Newton">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Han Pritcher" target="Torie">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Han Pritcher" target="Horleggor">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Indbur" target="Hober Mallow">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Indbur" target="Randu">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Randu" target="Fran">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Randu" target="Mangin">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Randu" target="Ovall Gri">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="Randu" target="Torie">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Brodrig" target="Cléon II">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Brodrig" target="Figurez">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="le Marchand" target="Cléon II">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="le Marchand" target="Hober Mallow">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="le Marchand" target="Fran">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sennett Forell" target="Hober Mallow">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Jord Commason" target="Inchney">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="Fran" target="Hober Mallow">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lee Senter" target="Magnifiée">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Majesté Impériale" target="Mountel de Paramay">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Majesté Impériale" target="Gilmer">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hober Mallow" target="Salvor Hardin">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Noth" target="Willig">
+      <data key="d3">1</data>
+    </edge>
+  </graph>
+</graphml>

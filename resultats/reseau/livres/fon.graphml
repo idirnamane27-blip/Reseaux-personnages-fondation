@@ -1,0 +1,632 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d2" for="node" attr.name="blocs" attr.type="long" />
+  <key id="d1" for="node" attr.name="mentions" attr.type="long" />
+  <key id="d0" for="node" attr.name="names" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Salvor Hardin">
+      <data key="d0">Hardin;Maire;Maire Hardin;Salvor Hardin;monsieur Hardin</data>
+      <data key="d1">129</data>
+      <data key="d2">15</data>
+    </node>
+    <node id="Hober Mallow">
+      <data key="d0">Hober Mallow;Mallow</data>
+      <data key="d1">112</data>
+      <data key="d2">8</data>
+    </node>
+    <node id="Hari Seldon">
+      <data key="d0">Docteur Seldon;Hari Seldon;Seldon;docteur Seldon</data>
+      <data key="d1">71</data>
+      <data key="d2">17</data>
+    </node>
+    <node id="Gaal Dornick">
+      <data key="d0">Gaal;docteur Gaal Dornick</data>
+      <data key="d1">49</data>
+      <data key="d2">4</data>
+    </node>
+    <node id="Lewis Pirenne">
+      <data key="d0">Pirenne;docteur Lewis Pirenne</data>
+      <data key="d1">37</data>
+      <data key="d2">4</data>
+    </node>
+    <node id="Wienis">
+      <data key="d0">Wienis;amiral Wienis</data>
+      <data key="d1">37</data>
+      <data key="d2">5</data>
+    </node>
+    <node id="le Marchand">
+      <data key="d0">Le Marchand;Marchand;Maître Marchand;le Marchand</data>
+      <data key="d1">25</data>
+      <data key="d2">7</data>
+    </node>
+    <node id="Jaim Twer">
+      <data key="d0">Jaim Twer;Twer</data>
+      <data key="d1">24</data>
+      <data key="d2">4</data>
+    </node>
+    <node id="Sef Sermak">
+      <data key="d0">Sef Sermak;Sermak</data>
+      <data key="d1">21</data>
+      <data key="d2">5</data>
+    </node>
+    <node id="Yohan Lee">
+      <data key="d0">Lee;Yohan Lee</data>
+      <data key="d1">21</data>
+      <data key="d2">5</data>
+    </node>
+    <node id="Marchand Eskel Gorov">
+      <data key="d0">Eskel Gorov;Gorov;Maître Marchand Eskel Gorov</data>
+      <data key="d1">20</data>
+      <data key="d2">3</data>
+    </node>
+    <node id="le Grand">
+      <data key="d0">Grand Maître;Le Grand Maître;le Grand Maitre;le Grand Maître</data>
+      <data key="d1">19</data>
+      <data key="d2">4</data>
+    </node>
+    <node id="Poly Verisof">
+      <data key="d0">Poly Verisof;Verisof</data>
+      <data key="d1">19</data>
+      <data key="d2">3</data>
+    </node>
+    <node id="Lepold Ier">
+      <data key="d0">Lepold;Lepold Ier</data>
+      <data key="d1">18</data>
+      <data key="d2">5</data>
+    </node>
+    <node id="Ankor Jael">
+      <data key="d0">Ankor Jael;Jael</data>
+      <data key="d1">17</data>
+      <data key="d2">4</data>
+    </node>
+    <node id="Pherl">
+      <data key="d0">Pherl</data>
+      <data key="d1">13</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="Onum Barr">
+      <data key="d0">Barr;Onum Barr</data>
+      <data key="d1">10</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="Dorwin">
+      <data key="d0">Dorwin;seigneur Dorwin</data>
+      <data key="d1">9</data>
+      <data key="d2">3</data>
+    </node>
+    <node id="Jord Fara">
+      <data key="d0">Fara;Jord Fara</data>
+      <data key="d1">9</data>
+      <data key="d2">3</data>
+    </node>
+    <node id="Lewis Bort">
+      <data key="d0">Bort;Lewis Bort</data>
+      <data key="d1">8</data>
+      <data key="d2">3</data>
+    </node>
+    <node id="Anselme Rodric">
+      <data key="d0">Anselme Haut Rodric;Haut Rodric</data>
+      <data key="d1">7</data>
+      <data key="d2">3</data>
+    </node>
+    <node id="Aporat">
+      <data key="d0">Aporat</data>
+      <data key="d1">7</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Gorm">
+      <data key="d0">Gorm</data>
+      <data key="d1">7</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Jord Parma">
+      <data key="d0">Jord Parma;Parma</data>
+      <data key="d1">7</data>
+      <data key="d2">4</data>
+    </node>
+    <node id="Lefkin">
+      <data key="d0">Lefkin</data>
+      <data key="d1">7</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Jorane Sutt">
+      <data key="d0">Jorane Sutt</data>
+      <data key="d1">5</data>
+      <data key="d2">4</data>
+    </node>
+    <node id="Cassandre Seldon">
+      <data key="d0">Cassandre Seldon</data>
+      <data key="d1">4</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Dokor Walto">
+      <data key="d0">Dokor Walto;Walto</data>
+      <data key="d1">4</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="Publis Manlio">
+      <data key="d0">Manlio;Publis Manlio</data>
+      <data key="d1">4</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="Tinter">
+      <data key="d0">Tinter;lieutenant Tinter</data>
+      <data key="d1">4</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="Grand Prêtre">
+      <data key="d0">Grand Prêtre</data>
+      <data key="d1">3</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="Wiscard">
+      <data key="d0">Wiscard</data>
+      <data key="d1">3</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="Asper Argo">
+      <data key="d0">Asper Argo;Commodore Asper Argo</data>
+      <data key="d1">2</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="Chen">
+      <data key="d0">Chen</data>
+      <data key="d1">2</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="Ha'din">
+      <data key="d0">Ha'din</data>
+      <data key="d1">2</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Hmmm">
+      <data key="d0">Hmmm</data>
+      <data key="d1">2</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="Holk">
+      <data key="d0">Holk</data>
+      <data key="d1">2</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Lameth">
+      <data key="d0">Lameth</data>
+      <data key="d1">2</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Locris">
+      <data key="d0">Locris</data>
+      <data key="d1">2</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="Son Auguste Majesté">
+      <data key="d0">Auguste Majesté;Son Auguste Majesté</data>
+      <data key="d1">2</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Yate Fulham">
+      <data key="d0">Yate Fulham</data>
+      <data key="d1">2</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="Achille">
+      <data key="d0">Achille</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Asper le Bien-Aimé">
+      <data key="d0">Asper le Bien-Aimé</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Brutus">
+      <data key="d0">Brutus</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Calmez">
+      <data key="d0">Calmez</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Cléon Ier">
+      <data key="d0">Cléon Ier</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="de la République Korellienne">
+      <data key="d0">Commodore de la République Korellienne</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Glyptal IV">
+      <data key="d0">Glyptal IV</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Grand des Temples">
+      <data key="d0">Grand Maître des Temples</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Grum">
+      <data key="d0">Grum</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Humm">
+      <data key="d0">Humm</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Ja'dun">
+      <data key="d0">Ja'dun</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Jaim Orsy">
+      <data key="d0">Jaim Orsy</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Lera">
+      <data key="d0">Lera</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Levi Norast">
+      <data key="d0">Levi Norast</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Limmar Ponyets">
+      <data key="d0">Limmar Ponyets</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Obijasi">
+      <data key="d0">Obijasi</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="P. S. K">
+      <data key="d0">P. S. K</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Randel">
+      <data key="d0">Randel</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Sa Seigneurie">
+      <data key="d0">Sa Seigneurie</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Savoi">
+      <data key="d0">Savoi</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Tarki">
+      <data key="d0">Tarki</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Temples de Santé">
+      <data key="d0">Temples de Santé</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="Tomas Sutt">
+      <data key="d0">Tomas Sutt</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+    </node>
+    <edge source="Salvor Hardin" target="Lewis Pirenne">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Anselme Rodric">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Jord Fara">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Ha'din">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Ja'dun">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Obijasi">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Savoi">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Dorwin">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Hari Seldon">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Yohan Lee">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Sef Sermak">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Brutus">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Poly Verisof">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Wienis">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Lewis Bort">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Dokor Walto">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Jaim Orsy">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Lepold Ier">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Locris">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Salvor Hardin" target="le Marchand">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Jorane Sutt">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Publis Manlio">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Grand Prêtre">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Ankor Jael">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Hober Mallow">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Salvor Hardin" target="Hmmm">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hober Mallow" target="le Marchand">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="Hober Mallow" target="Jaim Twer">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="Hober Mallow" target="Hari Seldon">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="Hober Mallow" target="Tinter">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Hober Mallow" target="Grum">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hober Mallow" target="le Grand">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hober Mallow" target="Onum Barr">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Hober Mallow" target="Jorane Sutt">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Hober Mallow" target="Ankor Jael">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="Hober Mallow" target="Jord Parma">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Hober Mallow" target="P. S. K">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hober Mallow" target="Grand Prêtre">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hober Mallow" target="Hmmm">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hari Seldon" target="Gaal Dornick">
+      <data key="d3">21</data>
+    </edge>
+    <edge source="Hari Seldon" target="Cassandre Seldon">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Hari Seldon" target="Jord Fara">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hari Seldon" target="Lepold Ier">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hari Seldon" target="Yohan Lee">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hari Seldon" target="Wienis">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hari Seldon" target="Sef Sermak">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hari Seldon" target="Jaim Twer">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Hari Seldon" target="Grand Prêtre">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hari Seldon" target="Ankor Jael">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gaal Dornick" target="Achille">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gaal Dornick" target="Cassandre Seldon">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Gaal Dornick" target="Cléon Ier">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lewis Pirenne" target="Anselme Rodric">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="Lewis Pirenne" target="Son Auguste Majesté">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lewis Pirenne" target="Jord Fara">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Lewis Pirenne" target="Dorwin">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Wienis" target="Lepold Ier">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="Wienis" target="Humm">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Wienis" target="Poly Verisof">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Wienis" target="Locris">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Wienis" target="Lefkin">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Wienis" target="Aporat">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="le Marchand" target="Gorm">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="le Marchand" target="Limmar Ponyets">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="le Marchand" target="Marchand Eskel Gorov">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="le Marchand" target="le Grand">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="le Marchand" target="Pherl">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="le Marchand" target="Grand des Temples">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="le Marchand" target="Jaim Twer">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="le Marchand" target="Tinter">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Jaim Twer" target="Tinter">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Jaim Twer" target="Jord Parma">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Sef Sermak" target="Yohan Lee">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="Sef Sermak" target="Lewis Bort">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Sef Sermak" target="Levi Norast">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sef Sermak" target="Tarki">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sef Sermak" target="Dokor Walto">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Yohan Lee" target="Poly Verisof">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Marchand Eskel Gorov" target="Gorm">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Marchand Eskel Gorov" target="Limmar Ponyets">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Marchand Eskel Gorov" target="le Grand">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Marchand Eskel Gorov" target="Calmez">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Marchand Eskel Gorov" target="Pherl">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="le Grand" target="Randel">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="le Grand" target="Pherl">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Poly Verisof" target="Lepold Ier">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Poly Verisof" target="Jaim Orsy">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lepold Ier" target="Dokor Walto">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ankor Jael" target="Grand Prêtre">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Onum Barr" target="Wiscard">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Dorwin" target="Tomas Sutt">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dorwin" target="Ha'din">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Lewis Bort" target="Dokor Walto">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Anselme Rodric" target="Son Auguste Majesté">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aporat" target="Lefkin">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="Gorm" target="Limmar Ponyets">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Jorane Sutt" target="Publis Manlio">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Jorane Sutt" target="Grand Prêtre">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dokor Walto" target="Tarki">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Asper Argo" target="de la République Korellienne">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ja'dun" target="Obijasi">
+      <data key="d3">1</data>
+    </edge>
+  </graph>
+</graphml>

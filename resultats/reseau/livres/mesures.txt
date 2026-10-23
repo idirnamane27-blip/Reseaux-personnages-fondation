@@ -1,0 +1,59 @@
+== Fondation (fon)
+64 personnages, 101 liens, densité 0.050, 11 composantes (dont 9 isolés)
+personnage                   mentions blocs degré  force intermédiarité
+Salvor Hardin                     129    15    26    105          0.493
+Hober Mallow                      112     8    14     60          0.377
+Hari Seldon                        71    17    12     51          0.360
+Gaal Dornick                       49     4     4     27          0.077
+Lewis Pirenne                      37     4     5     27          0.051
+Jaim Twer                          24     4     5     26          0.000
+Wienis                             37     5     8     25          0.100
+le Marchand                        25     7    10     24          0.185
+Sef Sermak                         21     5     7     23          0.051
+Yohan Lee                          21     5     4     23          0.000
+communautés (15) :
+  1. Salvor Hardin, Lewis Pirenne, Wienis, Yohan Lee, Sef Sermak, Poly Verisof, Lepold Ier, Dorwin, Lewis Bort, Anselme Rodric ...
+  2. Hober Mallow, Jaim Twer, Ankor Jael, Grand Prêtre, Tinter, Jorane Sutt, Onum Barr, Jord Parma, Wiscard, Hmmm ...
+  3. Hari Seldon, Gaal Dornick, Cassandre Seldon, Achille, Cléon Ier
+  4. le Marchand, Marchand Eskel Gorov, le Grand, Pherl, Gorm, Limmar Ponyets, Randel, Grand des Temples, Calmez
+  5. Lefkin, Aporat
+  6. Asper Argo, de la République Korellienne
+
+== Fondation et Empire (fee)
+47 personnages, 111 liens, densité 0.103, 8 composantes (dont 7 isolés)
+personnage                   mentions blocs degré  force intermédiarité
+Bayta                             114    14    15    132          0.303
+le Mulet                          112    15    20    111          0.304
+Toran                             110    13    13    109          0.060
+Mis                                60    11     9     67          0.042
+Magnifico                          44    11     7     61          0.000
+Ducem Barr                         63     8     9     50          0.173
+Hari Seldon                        58    17    14     49          0.265
+Bel Riose                          59     9     7     43          0.260
+Lathan Devers                      56     6    10     43          0.067
+Randu                              29     6    11     41          0.072
+communautés (11) :
+  1. Bayta, le Mulet, Toran, Mis, Magnifico, Han Pritcher, Torie, Magnifiée, Noth, Willig ...
+  2. Ducem Barr, Bel Riose, Lathan Devers, le Marchand, Brodrig, Hober Mallow, Sennett Forell, Cléon II, Majesté Impériale, Mountel de Paramay ...
+  3. Hari Seldon, Randu, Indbur, Fran, Ovall Gri, Porfirat Hart, Mangin
+  4. Jord Commason, Inchney
+
+== Seconde Fondation (sdf)
+49 personnages, 87 liens, densité 0.074, 14 composantes (dont 11 isolés)
+personnage                   mentions blocs degré  force intermédiarité
+A. Darell                          77    13    12     97          0.145
+Pelleas Anthor                     63    11    13     85          0.049
+le Mulet                          113    21    13     76          0.172
+Homir Munn                         70    10    12     74          0.153
+Arcadia                            73    15    16     52          0.187
+Bail Channis                       88     8     6     49          0.054
+Han Pritcher                       54    10     3     31          0.000
+Hari Seldon                        54    19    11     30          0.027
+Elvett Semic                       20     5     7     24          0.000
+Kleise                             18     3     6     22          0.000
+communautés (16) :
+  1. A. Darell, Pelleas Anthor, Homir Munn, Elvett Semic, Kleise, Turbor, Dirige, Arkady, Poli, Terminez ...
+  2. le Mulet, Bail Channis, Han Pritcher, Hari Seldon, Mis, le Premier Orateur, Vincetori, Bel Riose
+  3. Arcadia, Callia, le Premier Citoyen, Papa, Preem Palver, Lev Meirus, Hanto, Retirez, Hortnir Munn, Olynthus Dam ...
+  4. Tomma, Sunni, Milla
+  5. Salvor Hardin, Hober Mallow

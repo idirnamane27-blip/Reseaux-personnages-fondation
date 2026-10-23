@@ -21,8 +21,9 @@ def prenoms_proches(a, b):
 
 
 def est_abreviation(court, long_):
-    """« Ben » pour « Bentley » : même première lettre, et toutes les lettres du court dans l'ordre (règle B)."""
-    if len(court) < 3 or len(court) >= len(long_) or court[0] != long_[0]:
+    """« Ben » pour « Bentley » : mêmes deux premières lettres, et toutes les lettres du court dans l'ordre (règle B) ;
+    « Mis » n'abrège pas « Meirus »."""
+    if len(court) < 3 or len(court) >= len(long_) or court[:2] != long_[:2]:
         return False
     reste = iter(long_)
     return all(lettre in reste for lettre in court)
@@ -33,6 +34,7 @@ def resoudre_alias(mentions):
     Un nom d'un seul mot rejoint le nom long le plus cité qui le contient.
     Un titre seul (« Empereur ») rejoint le seul groupe où ce titre précède un nom, sinon il est retiré."""
     titres = charger_liste("titres.txt")
+    noms_communs = charger_liste("noms_communs.txt")
     freq = Counter(m.texte for m in mentions)
     coeurs = {nom: coeur(nom, titres) for nom in freq}
     freq_coeur = Counter()
@@ -73,8 +75,9 @@ def resoudre_alias(mentions):
     # 2b. règle B : un mot seul sans nom long est l'abréviation d'un autre nom (« Ben » -> « Bentley »)
     for c in sorted(freq_coeur, key=lambda c: (freq_coeur[c], c)):
         if len(c) == 1 and representant[c] == c:
+            # la cible est un nom propre, pas un mot du dictionnaire : « Mis » n'abrège pas « Ministre »
             cibles = {representant[x] for x in freq_coeur if x != c and representant[x] != c
-                      and any(est_abreviation(c[0], mot) for mot in x)}
+                      and any(est_abreviation(c[0], mot) and mot not in noms_communs for mot in x)}
             if cibles:
                 representant[c] = max(cibles, key=lambda r: (freq_coeur[r] + poids[r], r))
 

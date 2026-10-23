@@ -3,3 +3,4 @@ spacy
 networkx
 pandas
 scipy
+matplotlib
